@@ -1,13 +1,1919 @@
 Airport Disruption:
-- shutdown
+- Shut
+- Shutdown
 - cancellations
 - delays
 - accident
+- explosion
+- gas
+- cargo
+- technical
+- security
+- logjam
+- fire
+- strike
+- evacuation
+- hijack
+- blackout
+- disruption
+- suspension
+- restriction
+- blockade
+- hazard
+- failure
+- mishap
+- closure
+- crash
+- incident
+- collision
+- emergency
+- diversion
+- grounding
+- chaos
+- ATC
+- FAA
+- NOTAM
+- close
+- halt
+- software issue
+- Flight delay
+- cargo issue
+- gas leak
 - technical glitch
+- security breach
+- operational shutdown
+- explosion risk
+- airline disruption
+- airport hazard
+- log jam
 - runway closure
+- emergency evacuation
+- power outage
+- airport strike
+- fuel shortage
+- safety alert
+- customs delay
+- baggage mishandling
+- passenger strike
+- system failure
+- gate closure
+- airspace restriction
+- traffic congestion
+- airport closure
+- flight diversion
+- emergency landing
+- bomb threat
+- security alert
+- terminal evacuation
+- runway incursion
+- bird strike
+- ground stop
+- flight cancellations
+- travel chaos
+- system outage
+- airline strike
+- ATC delay
+- Unbundling Sale
+- Winding-Up Sale
+- Slump Sale
+- Asset Wind-down
+- Property Sale
+- Licensing Deal
+- Factory Closure Sale
+- Seized Asset Sale
+- Business Transfer
+- Ownership Reshuffling
+- Plant Closure Sale
+- Site Sale
+- Branch Sale
+- Product Line Sale
+- Non-Core Asset Sale
+- Intangible Asset Sale
+- Technology Sale
+- Machinery Sale
+- Equipment Sale
+- Land Divestment
+- Bank-Owned Asset Sale
+- Government-Owned Asset Sale
+- Bank Foreclosure Sale.
 Bankruptcy:
-- bankruptcy
+- insolvenz
 - insolvency
-- default
 - liquidation
+- default
+- collapse
+- failure
 - restructuring
+- debt
+- foreclosure
+- closure
+- bailout
+- writedown
+- receivership
+- repayment
+- arrears
+- liability
+- deficit
+- bankruptcy
+- delinquency
+- reorganization
+- bankrupt
+- administration
+- dissolution
+- bust
+- bankrupt
+- company insolvenz
+- financial collapse
+- debt default
+- Chapter 11
+- corporate restructuring
+- asset liquidation
+- business insolvency
+- cash deficit
+- credit failure
+- economic downturn
+- market shock
+- foreclosure notice
+- debt restructuring
+- loan repayment
+- corporate bailout
+- financial distress
+- asset protection
+- restructuring order
+- going bust
+- bankruptcy filing
+- Chapter 7
+- enters administration
+- winding up
+- liquidity crisis
+- creditor protection
+- insolvency proceedings
+- loan default
+- debt crisis
+- plant insolvency
+- company restructuring
+- bankruptcy restructuring
+Cyber Attack:
+- breached
+- Breach
+- hacking
+- intrusion
+- ransomware
+- phishing
+- malware
+- cybercrime
+- attack
+- penetration
+- hijack
+- exploit
+- encryption
+- vulnerability
+- scam
+- data
+- network
+- spyware
+- botnet
+- infiltration
+- worm
+- trojan
+- cryptojacking
+- exfiltration
+- skimming
+- snooping
+- hijacking
+- surveillance
+- spoofing
+- tampering
+- cyberattack
+- DDoS
+- DoS
+- APT
+- MITM
+- XSS
+- leak
+- hack
+- backdoor
+- rootkit
+- GB data
+- data compromised
+- data breach
+- ransomware attack
+- phishing scam
+- malware injection
+- network vulnerability
+- cyber intrusion
+- encryption hijack
+- botnet attack
+- spyware deployment
+- system exploit
+- hacking incident
+- digital infiltration
+- security flaw
+- credential theft
+- password breach
+- IT disruption
+- denial-of-service
+- firewall failure
+- server exploit
+- database compromise
+- privilege escalation
+- zero-day exploit
+- insider threat
+- phishing email
+- cryptographic attack
+- vulnerability scan
+- endpoint breach
+- DDoS attack
+- supply chain attack
+- cyber espionage
+- cyber threat
+- cyber incident
+- security incident
+- breach attempt
+- SQL injection
+- malware outbreak
+- social engineering
+- brute-force attack
+- credential stuffing
+- data leak
+- data theft
+- account compromise
+- security breach
+- unauthorized access
+Chemical Spill:
+- harmful
+- Leak
+- spill
+- discharge
+- contamination
+- hazard
+- toxic
+- chemical
+- emission
+- hazardous
+- exposure
+- pollution
+- waste
+- incident
+- release
+- accident
+- seepage
+- effluent
+- cleanup
+- spillage
+- HAZMAT
+- leakage
+- gas
+- toxin
+- contaminant
+- investigation
+- pollution check
+- Toxic spill
+- chemical leak
+- hazardous discharge
+- environmental hazard
+- contamination spread
+- industrial accident
+- toxic release
+- waste management
+- cleanup effort
+- exposure risk
+- containment breach
+- emission failure
+- plant spill
+- factory discharge
+- chemical exposure
+- water contamination
+- soil pollution
+- hazardous material
+- toxic gas
+- chemical hazard
+- chemical accident
+- industrial spill
+- hazardous spill
+- gas leak
+- toxic leak
+- oil spill
+- hazmat spill
+- chemical incident
+- pipeline leak
+- toxic cloud
+- radioactive leak
+Labor Disruption:
+- demand
+- strike
+- protest
+- walkout
+- union
+- demonstration
+- labor
+- stoppage
+- picket
+- boycott
+- shutdown
+- industrial
+- work
+- unrest
+- action
+- dispute
+- grievance
+- negotiation
+- disruption
+- lockout
+- sit-in
+- slowdown
+- sickout
+- rally
+- labour
+- union strike
+- labor strike
+- worker protest
+- union action
+- employee walkout
+- industrial action
+- work stoppage
+- grievance escalation
+- wage dispute
+- collective bargaining
+- factory shutdown
+- production halt
+- workforce boycott
+- employer lockout
+- worker unrest
+- job stoppage
+- labor unrest
+- contract negotiation
+- union dispute
+- worker grievances
+- general strike
+- wildcat strike
+- sit-down strike
+- strike action
+- industrial dispute
+- work-to-rule
+- overtime ban
+- picket line
+- labor demonstration
+- industrial unrest
+- labour strike
+- labour unrest
+- labour dispute
+- labour action
+- union demands
+Leadership Transition:
+- CEO
+- Turnover
+- shuffle
+- replacement
+- change
+- transition
+- resignation
+- succession
+- departure
+- promotion
+- overhaul
+- restructure
+- appointment
+- exit
+- leadership
+- shift
+- hire
+- vacancy
+- position
+- retirement
+- reshuffle
+- ouster
+- handover
+- retire
+- fired
+- ousted
+- CFO
+- COO
+- resigns
+- fired
+- dead
+- takeover
+- successor
+- CEO resigns
+- Leadership change
+- management shuffle
+- executive departure
+- CEO turnover
+- board transition
+- key appointment
+- succession planning
+- executive hire
+- position vacancy
+- leadership exit
+- management appointment
+- corporate restructuring
+- executive retirement
+- key replacement
+- senior promotion
+- leadership vacancy
+- board succession
+- director appointment
+- executive shuffle
+- leadership shakeup
+- executive shakeup
+- management change
+- change of guard
+- board shakeup
+- CEO resignation
+- new CEO
+- interim CEO
+- management overhaul
+- board reshuffle
+- CFO resigns
+- COO resigns
+- passed away
+- new COO
+- new CFO
+- interim COO
+- interim CFO
+Factory Fire:
+- blast
+- blaze
+- inferno
+- conflagration
+- fire
+- smoke
+- flame
+- ignition
+- explosion
+- sparks
+- combustion
+- incident
+- hazard
+- overheating
+- alarm
+- scorch
+- fireball
+- ash
+- flare
+- firestorm
+- burning
+- flames
+- arson
+- damage
+- evacuation
+- investigation
+- plant explosion
+- factory fire
+- industrial blaze
+- smoke hazard
+- flame ignition
+- explosion risk
+- machinery fire
+- electrical overheating
+- combustible materials
+- fire alarm
+- fire damage
+- plant fire
+- warehouse blaze
+- production halt
+- fire outbreak
+- industrial incident
+- manufacturing fire
+- equipment ignition
+- storage fire
+- operational shutdown
+- chemical fire
+- factory explosion
+- plant explosion
+- electrical fire
+- gas explosion
+- fire emergency
+- plant blaze
+- facility fire
+- dust explosion
+Port Disruption:
+- port
+- Congestion
+- delay
+- shipping
+- cargo
+- bottleneck
+- logistics
+- freight
+- backlog
+- customs
+- container
+- strike
+- blockade
+- disruption
+- holdup
+- shutdown
+- reroute
+- outage
+- hazard
+- inspection
+- jam
+- gridlock
+- port delay
+- shipping bottleneck
+- cargo congestion
+- customs inspection
+- logistical backlog
+- freight holdup
+- container delay
+- port shutdown
+- operational disruption
+- cargo reroute
+- freight strike
+- dock blockade
+- shipment holdup
+- logistics hazard
+- terminal outage
+- vessel delay
+- trade disruption
+- customs bottleneck
+- harbor closure
+- harbour closure
+- port closure
+- port strike
+- dock strike
+- port blockade
+- berth congestion
+- customs delay
+- logistics disruption
+- shipping backlog
+- port congestion
+Power Outage:
+- Blackout
+- outage
+- failure
+- electricity
+- grid
+- disruption
+- utility
+- power
+- interruption
+- downtime
+- surge
+- shortage
+- brownout
+- shutdown
+- overload
+- supply
+- cut
+- Power outage
+- electrical failure
+- utility disruption
+- grid failure
+- energy blackout
+- power cut
+- supply interruption
+- electricity shortage
+- grid overload
+- power shutdown
+- utility fault
+- blackout report
+- brownout alert
+- energy disruption
+- system downtime
+- utility failure
+- voltage surge
+- infrastructure breakdown
+- power failure
+- rolling blackout
+- load shedding
+- transformer explosion
+- electricity cut
+- electrical outage
+- grid collapse
+- widespread outage
+- nationwide outage
+Protest/Riot:
+- Protest
+- riot
+- unrest
+- demonstration
+- strike
+- march
+- blockade
+- violence
+- rally
+- uprising
+- conflict
+- disturbance
+- agitation
+- rebellion
+- mutiny
+- occupation
+- crowd
+- sit-in
+- upheaval
+- looting
+- clash
+- skirmish
+- turmoil
+- internet outage
+- Public protest
+- civil unrest
+- violent riot
+- worker strike
+- political rally
+- mass demonstration
+- social agitation
+- street blockade
+- peaceful march
+- union strike
+- civil conflict
+- crowd control
+- mob violence
+- community rally
+- sit-in protest
+- occupation movement
+- civil disobedience
+- organized rally
+- mass protest
+- street protest
+- violent protest
+- peaceful protest
+- looting spree
+- crowd clashes
+- mass unrest
+- violent clashes
+Recall:
+- Recall
+- withdrawal
+- defect
+- safety
+- quality
+- hazard
+- malfunction
+- contamination
+- alert
+- retraction
+- reissue
+- batch
+- warning
+- risk
+- return
+- failure
+- product
+- notice
+- replacement
+- fault
+- flaw
+- issue
+- Product recall
+- safety alert
+- quality defect
+- batch retraction
+- contamination hazard
+- recall notice
+- manufacturing fault
+- product warning
+- defect notice
+- batch failure
+- hazard warning
+- product malfunction
+- recall reissue
+- quality alert
+- replacement batch
+- risk mitigation
+- withdrawal order
+- safety breach
+- voluntary recall
+- food recall
+- drug recall
+- vehicle recall
+- fire hazard
+- safety recall
+- defective product
+- recall announcement
+- urgent recall
+- consumer alert
+- health risk
+- precautionary recall
+Regulatory Change:
+- Regulation
+- policy
+- compliance
+- reform
+- legislation
+- amendment
+- update
+- law
+- change
+- guideline
+- standard
+- directive
+- rule
+- ordinance
+- statute
+- code
+- framework
+- mandate
+- governance
+- authority
+- act
+- bill
+- decree
+- guidelines
+- protocol
+- bylaw
+- Policy change
+- regulatory update
+- compliance reform
+- law amendment
+- legislative update
+- governance change
+- directive update
+- rule revision
+- legal framework
+- policy amendment
+- law reform
+- regulatory guideline
+- compliance standard
+- authority mandate
+- legal statute
+- standard change
+- rule adjustment
+- law implementation
+- regulatory framework
+- regulatory change
+- rule change
+- policy shift
+- new regulation
+- amended law
+- regulatory overhaul
+- government regulation
+- statutory change
+- code revision
+- regulatory reform
+- legislative reform
+- law change
+- policy overhaul
+Supply Shortage:
+- Shortage
+- deficit
+- scarcity
+- disruption
+- delay
+- unavailability
+- backlog
+- bottleneck
+- rationing
+- insufficiency
+- dearth
+- stockout
+- deplete
+- constraint
+- restriction
+- gap
+- outage
+- depletion
+- lag
+- lack
+- crunch
+- paucity
+- undersupply
+- shortfall
+- Supply shortage
+- inventory deficit
+- material scarcity
+- stock disruption
+- product delay
+- resource unavailability
+- delivery backlog
+- production bottleneck
+- inventory rationing
+- supply constraint
+- critical shortage
+- stock depletion
+- logistics delay
+- component unavailability
+- order lag
+- resource bottleneck
+- input scarcity
+- fulfillment delay
+- shipping lag
+- availability gap
+- short supply
+- supply crunch
+- supply shortfall
+- supply gap
+- supply disruption
+- stock shortage
+- parts shortage
+- food shortage
+- fuel shortage
+Profit Warning:
+- Warning
+- advisory
+- earnings
+- profit
+- downgrade
+- alert
+- revision
+- loss
+- decrease
+- guidance
+- caution
+- impact
+- report
+- projection
+- shortfall
+- downturn
+- forecast
+- dip
+- trend
+- notification
+- decline
+- slump
+- Profit warning
+- earnings advisory
+- revenue shortfall
+- financial guidance
+- market caution
+- profit downgrade
+- sales dip
+- earnings alert
+- projection revision
+- revenue decline
+- financial alert
+- shortfall report
+- profit dip
+- market impact
+- guidance adjustment
+- revenue downturn
+- financial caution
+- earnings trend
+- profit notification
+- earnings warning
+- profit alert
+- profit miss
+- earnings miss
+- profit slump
+- earnings slump
+- profit decline
+- profit drop
+- earnings drop
+- guidance cut
+- guidance warning
+- lower guidance
+- weak earnings
+- reduced outlook
+Mail/Postal/Package Delivery Services:
+- Delay
+- disruption
+- backlog
+- postal
+- package
+- shipment
+- courier
+- mail
+- logistics
+- bottleneck
+- stoppage
+- issue
+- mishandling
+- strike
+- block
+- outage
+- restriction
+- holdup
+- reroute
+- interruption
+- post
+- delivery
+- transport
+- customs
+- parcel
+- Postal delay
+- package backlog
+- shipment disruption
+- courier issue
+- mail stoppage
+- logistics bottleneck
+- delivery delay
+- postal strike
+- service interruption
+- package mishandling
+- courier reroute
+- shipment backlog
+- logistics restriction
+- postal outage
+- mail disruption
+- package holdup
+- delivery block
+- shipment reroute
+- service bottleneck
+- delivery failure
+- mail delay
+- package delay
+- mail backlog
+- postal backlog
+- delivery disruption
+- postal disruption
+- courier delay
+- post office closure
+- customs backlog
+- parcel delay
+- parcel backlog
+Layoffs:
+- Layoffs
+- termination
+- downsizing
+- redundancies
+- retrenchment
+- furloughs
+- dismissal
+- unemployment
+- cuts
+- reductions
+- workforce
+- severance
+- displacement
+- offboarding
+- elimination
+- contraction
+- restructuring
+- jobless
+- discharge
+- attrition
+- firing
+- fired
+- sacking
+- axed
+- layoff
+- RIF
+- Workforce reduction
+- job cuts
+- employee dismissal
+- organizational downsizing
+- staff layoffs
+- mass termination
+- furlough notice
+- employment contraction
+- job displacement
+- severance package
+- redundancy announcement
+- restructuring effort
+- workforce contraction
+- dismissal notice
+- position elimination
+- labor reduction
+- offboarding process
+- staff attrition
+- workforce streamlining
+- job losses
+- headcount reduction
+- staff reduction
+- mass layoffs
+- personnel cuts
+- voluntary separation
+- pink slips
+Container Ship Accidents:
+- Accident
+- capsizing
+- sinking
+- collision
+- damage
+- mishap
+- disruption
+- grounding
+- spill
+- crash
+- loss
+- incident
+- blockage
+- fire
+- fault
+- overload
+- hazard
+- delay
+- holdup
+- storm
+- shipwreck
+- Ship accident
+- cargo loss
+- vessel sinking
+- maritime mishap
+- container spill
+- ship collision
+- grounding incident
+- fire onboard
+- vessel disruption
+- shipping delay
+- maritime hazard
+- cargo damage
+- blockage event
+- storm impact
+- vessel holdup
+- load overload
+- container fault
+- maritime fault
+- incident report
+- ship hazard
+- engine failure
+- mechanical failure
+- steering failure
+- navigational error
+- stranded vessel
+- ship grounding
+- oil spill
+- capsize incident
+- maritime incident
+- vessel accident
+- ship aground
+Earthquake:
+- Earthquake
+- seismic
+- tremor
+- aftershock
+- quake
+- epicenter
+- shockwave
+- fault
+- tectonic
+- ground
+- shake
+- magnitude
+- vibration
+- crust
+- displacement
+- fissure
+- rupture
+- slip
+- landslide
+- seismicity
+- temblor
+- Richter
+- foreshock
+- Seismic activity
+- ground tremor
+- earthquake epicenter
+- tectonic movement
+- fault rupture
+- quake magnitude
+- shockwave impact
+- seismic wave
+- ground shaking
+- crust displacement
+- aftershock tremor
+- tectonic slip
+- seismic fault
+- earthquake zone
+- magnitude scale
+- plate boundary
+- earthquake rupture
+- fault line
+- seismic hazard
+- earth tremor
+- seismic event
+- tectonic activity
+- earthquake swarm
+- fault movement
+- Richter scale
+- seismic shock
+- major quake
+Environmental Hazard:
+- Hazard
+- pollution
+- contamination
+- smog
+- emissions
+- spill
+- waste
+- leak
+- discharge
+- incident
+- breach
+- toxicity
+- disaster
+- runoff
+- degradation
+- fumes
+- dumping
+- exposure
+- debris
+- pollutant
+- sewage
+- radiation
+- nuclear
+- contaminant
+- Environmental hazard
+- pollution incident
+- contamination risk
+- waste spill
+- toxic discharge
+- smog formation
+- emissions breach
+- chemical leak
+- hazardous waste
+- runoff contamination
+- air quality
+- soil pollution
+- water contamination
+- toxic fumes
+- industrial discharge
+- ecological impact
+- waste dumping
+- debris hazard
+- exposure event
+- air pollution
+- water pollution
+- soil contamination
+- air quality alert
+- acid rain
+- oil spill
+- radiation leak
+- nuclear accident
+- nuclear leak
+- environmental disaster
+- toxic waste
+Extreme Weather:
+- Storm
+- cyclone
+- hurricane
+- typhoon
+- blizzard
+- hail
+- tornado
+- weather
+- rain
+- flooding
+- wind
+- snow
+- thunderstorm
+- lightning
+- surge
+- frost
+- freeze
+- drought
+- monsoon
+- squall
+- deluge
+- downpour
+- sandstorm
+- heatwave
+- avalanche
+- gale
+- cloudburst
+- superstorm
+- derecho
+- Severe storm
+- hurricane warning
+- typhoon alert
+- weather disruption
+- flash flood
+- thunderstorm warning
+- lightning strike
+- heavy rainfall
+- winter storm
+- wind surge
+- hail damage
+- cyclone impact
+- drought conditions
+- polar vortex
+- blizzard alert
+- storm surge
+- freeze warning
+- frost conditions
+- monsoon impact
+- snow disruption
+- extreme heat
+- extreme cold
+- heat wave
+- cold snap
+- arctic blast
+- extreme weather
+- violent storm
+- severe weather
+- torrential rain
+- heavy snow
+- dust storm
+- ice storm
+- cold wave
+Company Split:
+- Split
+- division
+- carve-out
+- demerger
+- restructuring
+- separation
+- segmentation
+- segregation
+- assets
+- break-up
+- divestiture
+- spin-off
+- split-off
+- split-up
+- distribution
+- equity
+- breakup
+- spinout
+- unbundling
+- Asset split
+- business carve-out
+- brand separation
+- unit division
+- equity carve-out
+- organizational split
+- subsidiary sale
+- plant segregation
+- brand split
+- business separation
+- corporate segmentation
+- operational breakup
+- strategic spin-off
+- restructuring effort
+- asset redistribution
+- unit spin-off
+- joint venture division
+- spin off
+- split off
+- demerger plan
+- business split
+- company breakup
+- split announcement
+- organisational split
+Corporate Restructuring:
+- Restructuring
+- overhaul
+- reorganization
+- realignment
+- reformation
+- adjustment
+- redesign
+- consolidation
+- transformation
+- optimization
+- restructure
+- change
+- reform
+- improvement
+- modernization
+- reorg
+- shakeup
+- revamp
+- streamlining
+- downsizing
+- turnaround
+- Corporate overhaul
+- strategic realignment
+- organizational change
+- business reshaping
+- asset optimization
+- process redesign
+- operational reform
+- system adjustment
+- corporate transformation
+- strategic adjustment
+- business reorganization
+- organizational shift
+- asset restructuring
+- performance improvement
+- management adjustment
+- enterprise modernization
+- management shakeup
+- organizational overhaul
+- business transformation
+- cost cutting
+- turnaround plan
+- organizational revamp
+- streamlining initiative
+- organisational change
+- organisational shift
+FDA/EMA/OSHA Action:
+- FDA
+- EMA
+- OSHA
+- compliance
+- safety
+- regulation
+- audit
+- inspection
+- violation
+- enforcement
+- adherence
+- approval
+- oversight
+- standard
+- review
+- breach
+- authorization
+- certification
+- guideline
+- sanction
+- corrective
+- MHRA
+- citation
+- warning
+- ban
+- non-compliance
+- Regulatory action
+- safety compliance
+- guideline breach
+- inspection report
+- violation notice
+- compliance failure
+- audit findings
+- certification approval
+- enforcement action
+- safety standard
+- regulatory oversight
+- compliance review
+- corrective measure
+- approval process
+- safety audit
+- policy breach
+- oversight sanction
+- adherence failure
+- regulatory review
+- warning letter
+- FDA approval
+- FDA warning
+- EMA approval
+- OSHA violation
+- safety inspection
+- regulatory approval
+- compliance violation
+- workplace safety
+Factory Disruption:
+- Disruption
+- shutdown
+- halt
+- stoppage
+- delay
+- interruption
+- downtime
+- strike
+- outage
+- failure
+- blockage
+- slowdown
+- bottleneck
+- closure
+- maintenance
+- breakdown
+- incident
+- backlog
+- suspension
+- derailment
+- malfunction
+- glitch
+- jam
+- Factory shutdown
+- operational delay
+- production halt
+- work stoppage
+- manufacturing disruption
+- assembly line
+- plant closure
+- operational bottleneck
+- maintenance outage
+- machinery breakdown
+- supply disruption
+- production backlog
+- factory suspension
+- labor strike
+- plant failure
+- equipment failure
+- downtime event
+- facility blockage
+- production slowdown
+- factory outage
+- plant shutdown
+- assembly line stoppage
+- operational halt
+- machinery failure
+- equipment breakdown
+- production loss
+- unplanned outage
+- unexpected shutdown
+- factory incident
+Fine:
+- Fine
+- penalty
+- sanction
+- charge
+- violation
+- breach
+- infraction
+- settlement
+- compliance
+- wrongdoing
+- restitution
+- forfeit
+- redress
+- levy
+- fault
+- enforcement
+- reparation
+- conviction
+- punishment
+- damages
+- noncompliance
+- payout
+- Regulatory fine
+- financial penalty
+- compliance breach
+- violation charge
+- settlement agreement
+- restitution order
+- penalty notice
+- legal sanction
+- enforcement action
+- infraction charge
+- compliance penalty
+- levy order
+- wrongdoing charge
+- conviction penalty
+- redress payment
+- regulatory sanction
+- legal breach
+- penalty fee
+- compliance violation
+- hefty fine
+- civil penalty
+- criminal fine
+- record fine
+- fines imposed
+- penalty imposed
+- settlement payment
+- antitrust fine
+Force Majeure:
+- Force
+- majeure
+- disaster
+- calamity
+- disruption
+- emergency
+- event
+- clause
+- waiver
+- exemption
+- act
+- unforeseeable
+- stoppage
+- suspension
+- chaos
+- inevitability
+- interruption
+- catastrophe
+- anomaly
+- mandate
+- unavoidable
+- Force majeure
+- natural disaster
+- emergency clause
+- legal exemption
+- contract waiver
+- unforeseeable event
+- supply disruption
+- operational stoppage
+- disaster response
+- calamity impact
+- event clause
+- contract disruption
+- service suspension
+- clause activation
+- force clause
+- operational anomaly
+- legal interruption
+- inevitable event
+- catastrophe clause
+- Act of God
+- force majeure event
+- business interruption
+- unexpected event
+- force majeure notice
+- declared force majeure
+Geopolitical:
+- Geopolitical
+- conflict
+- war
+- tension
+- sanctions
+- embargo
+- crisis
+- unrest
+- dispute
+- blockade
+- intervention
+- alliance
+- aggression
+- coup
+- insurgency
+- protest
+- sovereignty
+- diplomacy
+- standoff
+- negotiation
+- skirmish
+- invasion
+- occupation
+- shelling
+- airstrike
+- ceasefire
+- annexation
+- terrorism
+- terrorist
+- militant
+- Geopolitical tension
+- trade sanctions
+- political unrest
+- territorial dispute
+- diplomatic crisis
+- economic embargo
+- military intervention
+- border conflict
+- alliance breakdown
+- regional instability
+- sovereignty dispute
+- trade embargo
+- protest escalation
+- negotiation failure
+- diplomatic standoff
+- aggression impact
+- crisis negotiation
+- insurgency rise
+- political standoff
+- armed conflict
+- military coup
+- regime change
+- terrorist attack
+- civil war
+- air strike
+- ground offensive
+- peace talks
+- peace treaty
+- military buildup
+- missile strike
+- drone strike
+- ethnic conflict
+Labor Violation:
+- Violation
+- exploitation
+- abuse
+- wage
+- safety
+- conditions
+- rights
+- strike
+- grievance
+- dispute
+- harassment
+- mistreatment
+- overtime
+- underpayment
+- infringement
+- inequality
+- misconduct
+- injustice
+- oversight
+- breach
+- discrimination
+- bullying
+- overwork
+- labour
+- Labor violation
+- wage dispute
+- worker abuse
+- safety breach
+- overtime abuse
+- rights infringement
+- workplace grievance
+- employment misconduct
+- underpayment issue
+- unsafe conditions
+- harassment claim
+- labor mistreatment
+- grievance escalation
+- inequality claim
+- contractual breach
+- rights abuse
+- worker oversight
+- employment injustice
+- safety violation
+- child labor
+- wage theft
+- sexual harassment
+- gender discrimination
+- racial discrimination
+- unsafe workplace
+- labour violation
+Legal Action:
+- Lawsuit
+- litigation
+- court
+- trial
+- dispute
+- claim
+- breach
+- contract
+- settlement
+- judgment
+- liability
+- arbitration
+- injunction
+- compliance
+- hearing
+- enforcement
+- prosecution
+- appeal
+- violation
+- accusation
+- case
+- suit
+- plaintiff
+- defendant
+- indictment
+- charged
+- complaint
+- summons
+- subpoena
+- Legal action
+- court case
+- contract breach
+- settlement agreement
+- compliance lawsuit
+- liability claim
+- dispute resolution
+- enforcement order
+- arbitration hearing
+- litigation case
+- trial proceedings
+- judgment appeal
+- lawsuit filing
+- violation claim
+- regulatory prosecution
+- compliance enforcement
+- contractual dispute
+- legal breach
+- hearing notice
+- class action
+- court battle
+- legal proceedings
+- civil lawsuit
+- criminal case
+- jury verdict
+- court ruling
+- court injunction
+- plea deal
+- not guilty
+- guilty verdict
+- indictment filed
+Merger & Acquisition:
+- Merge
+- acquire
+- takeover
+- integration
+- buyout
+- consolidation
+- purchase
+- stake
+- transaction
+- restructuring
+- partnership
+- equity
+- investment
+- unification
+- deal
+- agreement
+- transition
+- divestment
+- amalgamation
+- M&A
+- tie-up
+- selloff
+- Corporate merger
+- business acquisition
+- strategic buyout
+- equity transaction
+- partnership integration
+- consolidation effort
+- organizational restructuring
+- investment deal
+- merger agreement
+- business unification
+- equity purchase
+- acquisition deal
+- consolidation strategy
+- partnership alliance
+- acquisition transaction
+- merger transition
+- divestment deal
+- asset transfer
+- business integration
+- hostile takeover
+- friendly takeover
+- leveraged buyout
+- reverse merger
+- merger talks
+- takeover bid
+- acquisition target
+- joint venture
+- merger proposal
+- stake purchase
+- buying spree
+- major acquisition
+- organisational restructuring
+Mine Shutdown:
+- Shutdown
+- closure
+- disruption
+- halt
+- suspension
+- stoppage
+- mining
+- extraction
+- production
+- impact
+- incident
+- downtime
+- maintenance
+- restriction
+- bottleneck
+- delay
+- cave-in
+- collapse
+- explosion
+- landslide
+- flooding
+- Mine closure
+- mining halt
+- production stoppage
+- extraction disruption
+- operational shutdown
+- site suspension
+- output halt
+- facility closure
+- resource bottleneck
+- mining delay
+- production suspension
+- resource halt
+- mining downtime
+- operational delay
+- extraction stoppage
+- mining restriction
+- mine incident
+- mine accident
+- mine explosion
+- mine collapse
+- tunnel collapse
+- mining accident
+- mine disaster
+- flooded mine
+- landslide incident
+- rockfall incident
+Price Fluctuation:
+- Price
+- fluctuation
+- volatility
+- change
+- swing
+- adjustment
+- increase
+- decrease
+- spike
+- drop
+- inflation
+- deflation
+- variation
+- cost
+- surge
+- reduction
+- market
+- trend
+- instability
+- peak
+- hike
+- rise
+- dip
+- plunge
+- soar
+- volatile
+- Price change
+- market fluctuation
+- cost variation
+- price adjustment
+- price swing
+- inflation trend
+- deflation impact
+- cost increase
+- price spike
+- market volatility
+- cost instability
+- demand surge
+- price reduction
+- supply impact
+- market peak
+- cost drop
+- pricing shift
+- market trend
+- pricing instability
+- cost adjustment
+- price hike
+- price rise
+- price fall
+- price jump
+- price plunge
+- price shock
+- market crash
+- record high
+- record low
+- price volatility
+- volatile market
+- supply shock
+Business Sale:
+- Sale
+- Disposal
+- Divestment
+- Divestiture
+- Sell-off
+- Offload
+- Transfer
+- Transaction
+- Deal
+- Agreement
+- Equity
+- Auction
+- Bid
+- Bidder
+- Fire-sale
+- Restructuring
+- Liquidation
+- Exit
+- Hand-over
+- Transition
+- Divest
+- Rights
+- Stake
+- Stakeholding
+- Spin-off
+- Unbundling
+- Demerger
+- Resale
+- Wind-up
+- Shutdown
+- Realignment
+- Ownership
+- Buyout
+- Liquidate
+- Business Sale
+- Company Sale
+- Plant Sale
+- Subsidiary Sale
+- Unit Sale
+- Division Sale
+- Asset Sale
+- Asset Liquidation
+- Ownership Transfer
+- Ownership Change
+- Stake Sale
+- Stake Disposal
+- Stake Divestment
+- Intellectual Property Sale
+- Brand Sale
+- Patent Sale
+- License Sale
+- License Transfer
+- Franchise Sale
+- Land Sale
+- Factory Sale
+- Office Sale
+- Portfolio Sale
+- Equity Sale
+- Equity Exit
+- Equity Transfer
+- Stock Sale
+- Stock Disposal
+- Controlling Stake Sale
+- Majority Stake Sale
+- Business Exit
+- Private Equity Exit
+- Liquidation Sale
+- Bankruptcy Sale
+- Demerger Sale
+- Spin-Off Sale
+- Carve-Out Sale
+- Unbundling Sale
+- Winding-Up Sale
+- Slump Sale
+- Asset Wind-down
+- Property Sale
+- Licensing Deal
+- Factory Closure Sale
+- Seized Asset Sale
+- Business Transfer
+- Ownership Reshuffling
+- Plant Closure Sale
+- Site Sale
+- Branch Sale
+- Product Line Sale
+- Non-Core Asset Sale
+- Intangible Asset Sale
+- Technology Sale
+- Machinery Sale
+- Equipment Sale
+- Land Divestment
+- Bank-Owned Asset Sale
+- Government-Owned Asset Sale
+- Bank Foreclosure Sale
