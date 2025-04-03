@@ -1,8 +1,73 @@
-Airport Disruption: P1
-Bankruptcy: P1
-Cyber Attack: P1
-Earthquake: P0
-Factory Fire: P2
-Labor Disruption: P2
-Leadership Transition: P4
-Recall: P3
+| Event Type                        | Priority |
+|----------------------------------|----------|
+| Earthquake                       | P0       |
+| Hurricane/Typhoon (Pre-Landfall)| P0       |
+| Hurricane/Typhoon (Post-Landfall)| P0       |
+| Airport Disruption               | P1       |
+| Bankruptcy                       | P1       |
+| Cyber Attack                     | P1       |
+| Extreme Weather                  | P1       |
+| Flood                            | P1       |
+| Force Majeure                    | P1       |
+| Forest Fire                      | P1       |
+| Port Disruption                  | P1       |
+| Power Outage                     | P1       |
+| Tornado                          | P1       |
+| Volcano                          | P1       |
+| Chemical Spill                   | P2       |
+| Factory Disruption               | P2       |
+| Factory Fire                     | P2       |
+| FDA/EMA/OSHA Action              | P2       |
+| Environmental Hazard             | P2       |
+| Geopolitical                     | P2       |
+| Labor Violation                  | P2       |
+| Labor Disruption                 | P2       |
+| Human Health                     | P2       |
+| Protest/Riot                     | P2       |
+| Regulatory Change                | P2       |
+| Supply Shortage                  | P2       |
+| Bribery/Corruption               | P3       |
+| Business Sale                    | P3       |
+| Business Spin-off                | P3       |
+| Company Split                    | P3       |
+| Corporate Restructuring         | P3       |
+| Counterfeit                      | P3       |
+| Fine                             | P3       |
+| Legal Action                     | P3       |
+| Mine Shutdown                    | P3       |
+| Price Fluctuation                | P3       |
+| Profit Warning                   | P3       |
+| Recall                           | P3       |
+| Leadership Transition            | P4       |
+| Merger & Acquisition             | P4       |
+
+---
+
+## ⏱️ Priority Handling Instructions
+
+- **P0 (Most Critical Events):**
+  - Drop all tasks and prioritize immediately.
+  - Notify stakeholders without delay.
+
+- **P1 (Critical Events):**
+  - Notify within 3 hours.
+  - Prioritize speed with accuracy.
+
+- **P2 (High Priority Events):**
+  - Notify within 3 hours.
+  - Requires prompt action, though not as critical as P1.
+
+- **P3 (Regular Events):**
+  - Follow regular workflow.
+  - No urgency but ensure thoroughness.
+
+- **P4 (Low Priority Events):**
+  - Handle after higher priority events.
+  - Can be addressed when workload allows.
+
+---
+
+## 🔺 Escalation Rule
+
+If multiple events occur simultaneously:
+**Always prioritize in this order: `P0 > P1 > P2 > P3 > P4`**
