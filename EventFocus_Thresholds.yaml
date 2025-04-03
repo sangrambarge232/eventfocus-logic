@@ -1,0 +1,8 @@
+Airport Disruption:
+  criteria:
+  - Airport halts all operations
+  - High number of flight cancellations affecting cargo
+Bankruptcy:
+  criteria:
+  - Public declaration of bankruptcy
+  - Major restructuring or insolvency filing

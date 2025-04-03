@@ -1,0 +1,44 @@
+EventFocus_Guide:
+  version: '2.3'
+  components:
+  - Keyword Mapping
+  - Threshold Enforcement
+  - LLM-based Risk Analysis
+  - Event Type Mappings
+  - Prioritization Matrix
+  - Deduplication Logic
+  - Summary Generation
+  - Classification Standards
+  pipeline:
+    TitleProcessor:
+    - Translate if needed
+    KeywordClassifier:
+    - Match keywords
+    - Determine event type
+    ThresholdValidator:
+    - Validate threshold against event type
+    LLMRiskEngine:
+    - Infer risk and event type if keyword match fails
+    - Recheck threshold against inferred type
+  decision_logic:
+    notify: If keyword and threshold match OR if LLM infers disruption and threshold
+      passes
+    not_impactful:
+    - No Keyword Match
+    - Threshold Failed
+    - LLM Inference Failed
+  rules:
+    No Assumptions: true
+    No Fictional Events: true
+    Strict Deduplication: true
+    Validated Translations: true
+    Locked Keyword-Event Matching: true
+    Threshold Precedence: true
+    Auditable LLM Reasoning: true
+  metadata:
+    LLM: Enabled for fallback inference with threshold crosscheck
+    WebSearch: Deprecated
+    Source Files:
+    - eventfocus_keywords.md
+    - eventfocus_thresholds_v1.0.md
+    - eventfocus_prioritization.md
