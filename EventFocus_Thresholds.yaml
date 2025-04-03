@@ -1,8 +1,1688 @@
-Airport Disruption:
-  criteria:
-  - Airport halts all operations
-  - High number of flight cancellations affecting cargo
-Bankruptcy:
-  criteria:
-  - Public declaration of bankruptcy
-  - Major restructuring or insolvency filing
+## 1. Airport Disruption
+
+**Sub-Types:**
+- Airport shutdown
+- Airlines canceling a high number of flights
+- Airport accidents, blasts, gas leaks, chemical spills
+- Cargo airplane crash
+- Cargo handling operations down
+- Disruptions due to man-made events
+- Disruptions due to weather events
+- Disruptions due to technical glitches/cyber attacks
+- Customs or security disruptions
+
+**Reporting Guidelines:**
+- We notify airport disruption, when:
+  - The airport halts its activities completely
+  - Airport reports a high number of flight cancelations, affecting cargo movement
+  - If a Passenger activity stops, notify only if major flights canceled
+  - If cargo activity disrupts, notify straightaway
+  - Avoid notifying about domestic airports with no cargo activities
+  - Partial disruptions, no impact on cargo; Operations resumed – Avoid
+  - Under airport disruptions, we also notify labor strikes threatening an airport.
+
+**WarRoom Guidelines:**
+- We create a WarRoom, when:
+  - A major cargo airport shuts down for longer than 48 hours
+  - A supplier confirms impact in the public domain
+
+**Radius Guidelines:**
+- Create a 100-KM radius around the affected airport
+
+**Supplier Confirmation Email:**
+- NO
+
+**Other Notes:**
+- Ensure the airport handles freight/cargo or industrial impact before issuing.
+- Include list of logistics firms or suppliers nearby if available.
+
+## 2. Bankruptcy
+
+**Sub-Types:**
+- Bankruptcy affecting a site/company/group
+- Bankruptcy affecting government, city, state, etc.
+- Possible Bankruptcy/financial hazards
+- Missed Payments/Default Payments
+- Possibility of Bankruptcy due to Anti-Dumping Effects
+- Parent or subsidiary bankruptcy
+
+**Reporting Guidelines:**
+- Notify bankruptcy/insolvency proceeding proactively
+- Notify as soon as signs or talks of a possible bankruptcy become public.
+- Send an update when the company files for bankruptcy
+- If a partner plans to file bankruptcy, send impact when signs and talks become public. Send an update when bankruptcy is announced.
+- If bankruptcy has been filed already, notify with impact.
+- If bankruptcy is filed in a specific region/country, send impact to the sites only in that country. Supplier email is not needed
+- Company mapped? Report with High Severity
+- Company Not mapped? Check if the product line & applications connect
+- Service provider - Check if the applications of the services offered within our verticals
+
+**WarRoom Guidelines:**
+- We create a WarRoom, when:
+  - Supplier company files for bankruptcy → Send impact to all sites or the sites in the affected city/state/country only
+  - A country, state, or city filing for bankruptcy → Send impact to all sites involved in the city, state, or country.
+
+**Supplier Confirmation Email:**
+- NO
+
+## 3. Business Spin-Off
+
+**Sub-Types:**
+- Spinning off a business unit/division
+- Spinning off a brand/product
+- Spinning off sites/plants
+- Spinning off subsidiaries
+
+**Reporting Guidelines:**
+- Notify the spin-off as soon as it is announced.
+- If a supplier company is involved, send impact with initial bulletins.
+- Company Not mapped? Check if the product line and applications connect.
+- If the service sector is involved - Check if their services have applications in our vertical: logistics provider | cargo shipping | petrochemicals | specialty chemicals provider | IT company | utility provider | farming company
+- Send updates on completion news.
+
+**WarRoom Guidelines:**
+- Partner Spinning Off a business → Send impact with initial bulletin
+- If a partner is selling a specific division only - Send impact to just that division/country/site
+- Cannot identify business divisions? Send impact to all sites.
+
+**Supplier Confirmation Email:**
+- NO
+
+## 4. Business Sale
+
+**Sub-Types:**
+- Sale of complete business unit
+- Sale of product or brand
+- Sale of subsidiary or acquired business
+- Divestment of joint ventures
+
+**Reporting Guidelines:**
+- Notify as soon as it is announced (signs/talks/plans).
+- Company mapped? - Send an impact with the initial bulletin.
+- Company not mapped? - Send a bulletin if products have applications in the industries we cover.
+- If the service sector is involved - Check if their services have applications in our vertical: logistics provider | cargo shipping | petrochemicals | specialty chemicals provider | IT company | utility provider | farming company
+- Send updates on completion news.
+
+**WarRoom Guidelines:**
+- Send impact when the deal is announced.
+- Send to all involved companies.
+- If a partner is selling a specific division only - Send impact to just that division/country/site
+- Cannot identify business divisions? Send impact to all sites.
+
+**Supplier Confirmation Email:**
+- NO
+
+**Reporting Guidelines:**
+- Notify as soon as it is announced (signs/talks/plans).
+- Company mapped? - Send an impact with the initial bulletin.
+- Company not mapped? - Send a bulletin if products have applications in the industries we cover.
+- If the service sector is involved - Check if their services have applications in our vertical: logistics provider | cargo shipping | petrochemicals | specialty chemicals provider | IT company | utility provider | farming company
+- Send updates on completion news.
+
+**WarRoom Guidelines:**
+- Send impact when the deal is announced.
+- Send to all involved companies.
+- If a partner is selling a specific division only - Send impact to just that division/country/site
+- Cannot identify business divisions? Send impact to all sites.
+
+**Supplier Confirmation Email:**
+- NO
+
+## 5. Bribery / Corruption
+
+**Sub-Types:**
+- Site and supplier level events
+- Leadership involved / arrested
+- Poor practices
+- Credit rating / brand impact
+- City and state level
+
+**Reporting Guidelines:**
+Under EventWatch, Resilinc monitors situations where:
+- A supplier has been found guilty of corruption or bribery
+- A leader of a supplier company is involved in a scandal
+- General inspections and investigations where relevant companies are involved
+- Signs of poor practices / potential brand impact
+- Credit rating fluctuates due to corruption scandals
+- We also notify state and country level scandals that can potentially impact manufacturing and supply chain
+
+**Supplier Confirmation Email:**
+- NO
+
+## 6. Chemical Spill
+
+**Sub-Types:**
+- Toxic Leaks/fumes, Hazardous Spill
+- Health Warnings/Advisories/Stay indoors
+- Plant closure/evacuation alerts in the area
+- Water/River Contamination
+- Site and Regional contamination
+- Spills at manufacturing/services/transportation/energy/cargo hubs
+- Leaks due to train derailments or road accidents
+
+**Reporting Guidelines:**
+- We notify spills and leaks as soon as the news is made public. Notify even if no sites are mapped. Check the industrial importance of the region, product and services affected
+- Report chemical spills at an industrial unit, warehouse, port, airport, industrial park, mines, logistic hubs, train track, medical labs, and highway
+- Spills and leaks can cause plant/region evacuations, road closures, temporary plant shutdowns, environmental hazards, investigations, product scarcity, and more
+- Send updates if the situation escalates
+
+**WarRoom Guidelines:**
+- We create a WarRoom, when:
+  - A spill is at the mapped site. Send impact to the affected site.
+  - A spill at a mapped/non-mapped site with reports of external disruptions. Send impact for all sites in the affected region
+  - A spill affects a region and causes disruption.
+
+**Radius Guidelines:**
+- Create a 1-KM radius around the affected site if external disruptions reported
+- If articles mention an evacuation radius, go by that
+
+**Supplier Confirmation Email:**
+- YES
+
+## 7. Company Split
+
+**Sub-Types:**
+- Splitting company business/unit
+- Splitting and selling assets
+- Splitting Joint venture/De-merging
+- Asset split/Brand Split
+
+**Reporting Guidelines:**
+- Notify as soon as it is announced (signs/talks/plans)
+- For a mapped company - Send an impact with the initial bulletin.
+- If the company is not mapped - Send a bulletin if products have applications in the industries we cover. Possible sub-tier or Tier 1 yet to be mapped (decide based on product line)
+- Services sector - Check if serving into the verticals we cover
+- Steel (strong product application or a partner is involved)
+- Mining company (only if a partner is involved)
+- Crude (only if a partner is involved)
+
+**WarRoom Guidelines:**
+- We create a WarRoom, when:
+  - A partner is involved in the split
+  - Specific segment of business involved. Send impact to just that segment
+  - Cannot identify business segments involved? Send impact to all sites
+
+**Supplier Confirmation Email:**
+- NO
+
+## 8. Compliance
+
+**Sub-Types:**
+- Faulty, Contaminated or Vulnerable products
+- Packaging, Labelling issues
+- Counterfeit products
+- Bans/citations
+- Regulatory actions
+- Worthiness alerts
+- Recalls due to compliance
+- Faulty components / poor quality ingredients
+
+**Reporting Guidelines:**
+- Like FDA/EMA/OSHA, we notify all kinds of warnings/citations/safety & compliance changes issued for products with applications in our verticals.
+- There are several regulatory bodies that regulate and certify products.
+- We notify regulation changes, product worthiness issued, compliance citations issued, or poor-quality issues are reported.
+- We notify changes to local and international regulatory compliance/risks
+- If the manufacturer of the affected product(s) is mapped, notify with impact. If not mapped, notify based on product applications
+
+**WarRoom Guidelines:**
+- If mapped sites/company is flagged, we notify customers with the impact attached
+
+**Supplier Confirmation Email:**
+- NO
+
+## 9. Corporate Restructuring
+
+**Sub-Types:**
+- Organizational or Hierarchical restructuring
+- Asset and Debt restructuring
+- Mergers and consolidations
+- Corporate and takeovers
+- Recapitalization, Split-offs/Spin-offs
+- Rebranding/Renaming, Segregation, or selling assets
+- Workforce/employee restructuring
+
+**Reporting Guidelines:**
+- If the company is not mapped - Send a bulletin if products have applications in the industries we cover. Possible sub-tier or Tier 1
+
+**WarRoom Guidelines:**
+- We create a WarRoom, when:
+  - A partner is involved in the corporate restructuring
+  - Specific segment of business involved. Send impact to just that segment
+  - Cannot identify business segments involved? Send impact to all sites
+
+**Supplier Confirmation Email:**
+- NO
+
+## 10. Cyber Attack
+
+**Sub-Types:**
+- Data leaks, Breaches, Ransomware, Malware
+- CISA Vulnerabilities
+- Faulty doughy components/devices
+- Vulnerable software/tools
+- Glitches/Malfunctioning/Vulnerabilities
+- Insider neglect/threat, Password attacks
+- Phishing Attacks - Zero-day, DDoS Attacks
+- Remote Code Executions
+
+**Reporting Guidelines:**
+- Partner’s software attacked? Notify with impact attached
+- Notify if the affected company(s) serves our customer industries. Possible unmapped sub-tier/T1 site yet to be mapped by the customers.
+- Report data breaches at a service provider, manufacturer, utility services, data centers, financial institutions, communication services, cargo/freight services, etc.
+- Notify all kinds of hacks, breaches, ransomware, attacks, and service interruptions
+- Notify glitches in software or hardware that are vulnerable to cyber attacks
+
+**NOTE:**
+- Send frequent updates when further information becomes available, or companies start confirming impact in the public domain.
+- In case of Cyber vulnerabilities, send news alerts but DO NOT create a WarRoom.
+- Create a WarRoom only when a Cyber Attack actually happens.
+
+**WarRoom Guidelines:**
+**Company Affected:**
+- A partner is involved. Send impact to all sites or to the affected region.
+- A partner confirms impact in the public domain.
+
+**Region Affected by cyber-attack:**
+- Partner sites in the region of impact. Draw a polygon for the region affected by the cyber-attack
+
+**Supplier Confirmation Email:**
+- YES
+## 11. CFSI: Counterfeit, Fraudulent and Suspect Items
+
+**Sub-Types:**
+- Counterfeit component
+- Supplier bans/legal actions
+- Customs announcements
+- Regulatory agency investigations
+- General counterfeit announcements
+
+**Reporting Guidelines:**
+Under EventWatch, Resilinc monitors situations where:
+- A supplier has been found guilty of using a counterfeit part/component in its manufacturing or products
+- A supplier is warning customers of counterfeit products circulating in the market
+- General industry-wide inspections and announcements where the use of counterfeit parts/components is trending higher
+- Legal battles and initiatives against supplier companies due to the use of counterfeit products
+- Regulatory agencies warning of counterfeit products
+- Customs capture counterfeit products and announce the company involved
+- Notify when related to raw materials, parts, components, etc.
+- Do not report alerts for currency notes, fake luxury goods, counterfeit fashion items, etc.
+- Notify under Counterfeit
+
+**WarRoom Guidelines:**
+- Send impact when Partner(s) involved
+- Partner confirms impact in public domain
+- Supplier announces their products are being counterfeited
+
+**Supplier Confirmation Email:**
+- YES
+
+## 12. Earthquake – Japan, Taiwan, South Korea, Philippines, Indonesia, and China
+
+**Reporting Guidelines:**
+- When magnitude is above or equal to 6.4, send Pre-Alert within 25 minutes once the feed is received on the Resilinc Feed Capturing System.
+- When magnitude is below 6.4, send an alert within 45 minutes.
+- We do not notify all earthquakes. Alerting happens based on the following thresholds published by Resilinc:
+  - Notify Magnitude 5.0 or above straightaway when:
+    - Epicenter on land and sites mapped in the region
+    - Epicenter on land, no sites mapped but an important region
+    - Epicenter off the coast and sites mapped in the coastal regions
+    - Epicenter off the coast/Tsunami Alert issued
+
+**WarRoom Guidelines:**
+- Always create a WarRoom with Pre-Alert
+- For Japan and Taiwan, create polygon based on Shindo scale covering regions 5 lower (-5) and above, if available within 25 minutes
+- If Shindo scale is not available, draw radius around epicenter
+
+**Supplier Confirmation Email:**
+- YES (send with pre-alert)
+
+**Sub-Types:**
+- Naturally caused earthquakes
+- Shaking caused by bombs and tests
+- Shaking caused by Volcanic activities
+- Tsunamis
+
+**Polygon Radius Table (Japan, Taiwan, South Korea, Philippines, Indonesia, China):**
+
+| Magnitude | Radius (KM) |
+|-----------|-------------|
+| 4.5–4.9   | Do Not Notify (unless publicly confirmed disruptions) |
+| 5.0–5.3   | 50          |
+| 5.4–5.7   | 75          |
+| 5.8–6.0   | 100         |
+| 6.1–6.3   | 150         |
+| 6.4–6.8   | 200         |
+| 6.9–7.2   | 250         |
+| 7.3–7.5   | 300         |
+| 7.6–7.8   | 350         |
+| 7.9+      | 400         |
+
+## 13. Earthquake – Rest of the World
+
+**Reporting Guidelines:**
+- When magnitude is above 6.4, send Pre-Alert within 25 minutes
+- When magnitude is below 6.4, send alert within 45 minutes
+- Notify Magnitude 5.7 or above straightaway when:
+  - Epicenter on land and sites mapped in the region
+  - Epicenter on land, no sites mapped but an important region
+  - Epicenter off the coast and sites mapped in the coastal regions
+  - Epicenter off the coast/Tsunami Alert issued
+
+**WarRoom Guidelines:**
+- Always create a WarRoom with Pre-Alert
+
+**Supplier Confirmation Email:**
+- YES (send with pre-alert)
+
+**Sub-Types:**
+- Naturally caused earthquakes
+- Shaking caused by bombs and tests
+- Shaking caused by Volcanic activities
+- Tsunamis
+
+**Polygon Radius Table (Rest of World):**
+
+| Magnitude | Radius (KM) |
+|-----------|-------------|
+| 5.0–5.3   | Do Not Notify (unless publicly confirmed disruptions) |
+| 5.4–5.6   | 75          |
+| 5.7–5.9   | 100         |
+| 6.0–6.2   | 150         |
+| 6.3–6.5   | 200         |
+| 6.6–6.8   | 250         |
+| 6.9–7.2   | 300         |
+| 7.3–7.5   | 350         |
+| 7.6–7.8   | 400         |
+| 7.9+      | 450         |
+
+## 14. Environmental Hazard
+
+**Sub-Types:**
+- Site/Factory pollutant emissions
+- Air quality concerns after Spills/leaks
+- Protests/actions on emissions
+- Regional-level Smog/health alerts
+- Neglect and Contamination, New/Update Regulations
+- River pollution/effects on water treatment
+- Fines/Bans/Investigations
+- Dust Storms
+- Government actions and their impact
+
+**Reporting Guidelines:**
+- Smog Alert-Notify highest level (Red) smog/pollution alerts if sites mapped in the region of impact (send impact)
+- Partner site(s) involved in air, water, or river pollution, high emissions rate observed at the site, etc.? Notify straightaway (send customer impact)
+- If the company is not mapped - Send a bulletin if products have applications in the industries we cover. Possible sub-tier or Tier 1 yet to be mapped (decide based on product line)
+- Service provider involved? Notify if applications in our verticals
+- Send updates on reported or potential citations, lawsuits, investigations, etc. If companies confirm operational disruptions, move to HIGH and send supplier impact
+
+**WarRoom Guidelines:**
+- Partner site(s) involved? Send impact to the exact site
+- Regional event? Send impact if the site(s) mapped in the region of impact
+
+**Radius:**
+- Low = Impact not needed
+- Medium = Affected region
+- High = Affected + 10 km
+- Severe = Affected + 30 km
+
+**Supplier Confirmation Email:**
+- YES - Only when High or Severe (when disruptions have been confirmed by companies)
+
+## 15. Extreme Weather
+
+**Sub-Types:**
+- Nor'easters, Bomb cyclone, Arctic Outbreaks/blast, Ice Storms, Polar Vortex
+- Major Winter/Ice Storms
+- Lake-effect snow warnings
+
+**Reporting Guidelines:**
+- Report only highly disruptive weather scenarios (follow Hurricane/Typhoon criteria for major named hurricanes, cyclones, and typhoons).
+- DO NOT REPORT thunderstorms and minor frequent weather disruptions.
+- Notify extreme weather situations only if partner sites are in the region.
+- Notify only if infrastructure damage, transportation disruptions, flight cancellations, or utility service disruptions are reported.
+- Power outages: Notify if partner sites are found in the region.
+- Monitor delivery and logistics services for transportation disruptions and report them if observed.
+- Major Named Snowstorms: Notify proactively as soon as they are identified before the storm reaches the region.
+- For smaller storms, if disruptions are reported within areas outside the initial polygon, create a new event instead of an update.
+
+**WarRoom Guidelines:**
+- Regions where supplier sites are present, create a WarRoom via geofencing
+- Extreme weather polygon should cover most affected regions (Red zones only)
+- Check if we have reports of a predicted path of the storm
+- Check which regions are mentioned in the reports of disruptions
+- If a storm system is more than 3 days old and is impacting a newer region, it is preferred that we do not update it with new suppliers and sites. Instead, a new WarRoom should be created
+
+**Supplier Confirmation Email:**
+- Only when there are public confirmations of disruptions, evacuations, power outages, etc.
+
+## 16. FDA/EMA/OSHA Action
+
+**Sub-Types:**
+- Good manufacturing practices issues
+- Citation and warnings
+- Quality issues
+- Compliance
+- Product safety warnings/Drug Safety Alerts
+- Investigations/Findings- fines, bans, dismissals, seizures, suspensions, revokes
+- Recalls/Shortages
+- Field corrective actions/Controlled drugs
+- Workplace safety
+- Health risk communication -Guidance, Law & Regulations
+- Export/Import halts
+- Supply difficulties
+- Drug Tariff
+
+**Reporting Guidelines:**
+- We notify all kinds of regulatory warnings/citations issued to companies and sites.
+- If mapped sites/company, we notify with the impact attached
+- EventWatch Reports:
+  - FDA Warning | FDA 483 | OSHA fine | EMA regulatory changes | EUDRA warning | Other agency warnings and investigations.
+- Notify any citation by any regulatory agency in the world
+- Notify foreign citations if connected to manufacturing and vertical applications
+- If the affected company is not mapped, still notify based on Product applications, including petrochemicals, healthcare, specialty chemicals, APIs, plastics, glass, coatings, resins, adhesives, packaging, metals, mining, and more
+- FDA Form 483 - Notify only if a partner is involved
+- Send impact if the site is mapped
+
+**WarRoom Guidelines:**
+- Send impact if the affected site or company is mapped.
+- If only a specific site is affected, send impact to that site only
+
+**Supplier Confirmation Email:**
+- YES (Don't send supplier impact unless a company gets banned)
+
+## 17. Factory Fire
+
+**Sub-Types:**
+- Fire and explosion at Warehouse/factory/plant
+- Fire/explosion at a neighboring facility
+- Minor fires, explosions, and evacuations
+- Nondisruptive/already recovered
+- Subsequent investigations and repairs
+- Fine or Force Majeure due to fire
+- Triggers protests, legal actions, or plant closure
+- Manufacturing/services/utility disruption
+- Plant substation fire
+- Fire just outside the facility
+
+**Reporting Guidelines:**
+- Report factory fires proactively. We report a factory fire, even if the articles say it is a small fire or has been extinguished.
+- If a fire is reported at a partner site/warehouse, notify with impact to the exact site.
+- Check if there are evacuations in neighboring sites. If yes, notify with a polygon. However, check if a street address is provided by the news sources
+- If a fire breaks out at a non-mapped factory/warehouse, notify if the product line of the company is relevant to our industrial verticals. Assume it’s a possible sub-tier or a T1 yet to be mapped.
+- If applications do not have a connection to our verticals? Check if it's an indirect supplier; if yes, notify.
+- If the service sector is involved - Check if their services have applications in our vertical: logistics provider, cargo shipping, petrochemicals, specialty chemicals, IT consultancy, utility provider, farming company, and more
+- Utility or services sector? Check if there are sites mapped in the region served by the affected services
+- No sites? Check if major manufacturing hubs, ports, airports, roads, and mining operations in the affected region
+- Updates may follow a fire incident that may trigger a strike, legal action, or factory shutdown by the authorities.
+
+**WarRoom Guidelines:**
+- When a partner site(s) is involved
+- Evacuations/restrictions reported in the neighborhood. Draw a polygon around the affected region
+- 0.5 km radius if evacuations are reported in the region
+- If a radius of evacuations is mentioned in articles, go by that
+
+**Supplier Confirmation Email:**
+- YES
+
+
+## 18. Factory Disruptions
+
+**Sub-Types:**
+- Shutdowns, Evacuations
+- Industrial Accidents
+- Labor Strikes
+- Shooting incidents
+- Production Transfer
+- Safety Incident
+
+**Reporting Guidelines:**
+- We notify shutdowns, evacuations, industrial accidents, labor strikes, shooting incidents, production transfer, and other site-level disruptions that can affect the site's operations.
+- If a temporary/permanent closure is reported at the mapped partner site/warehouse, notify it with impact to the exact site.
+- If a non-mapped partner announces closure, report if the product line and applications match our verticals. Assume it’s a possible sub-tier or a T1 yet to be mapped.
+- If a service sector is involved - Check if their services have applications in our vertical: logistics provider, cargo shipping, petrochemicals, specialty chemicals, IT consultancy, utility provider, farming company, and more
+- Check if sites mapped in the region served by the service provider
+
+**NOTE:** If the exact site(s) are mapped, send impact with the initial bulletin. Send an update a day before the shutdown happens
+
+**WarRoom Guidelines:**
+- Send impact on the announcement (UNCHECK SUPPLIER IMPACT BOX)
+- Send impact when partner involved
+- Site(s) being shut mapped
+
+**Supplier Confirmation Email:**
+- YES
+- Send Supplier Impact with an update, when the site finally gets shut.
+
+
+## 19. Fine
+
+**Reporting Guidelines:**
+- Companies receive fines for various reasons, including health and safety violations, GMP violations, frauds, briberies, neglect, inspections, etc.
+- If a mapped partner or its site is fined, notify with customer impact
+- We notify if the product line and applications of the company match our verticals
+- Notify case settlements for partners only for mapped partners or major companies from our verticals
+
+**WarRoom Guidelines:**
+- Settlement/fine? The impact is not needed unless financial hazards expected
+- Fine due to violations at a mapped site? Send impact
+
+**Supplier Confirmation Email:**
+- NO
+
+
+## 20. Financial Distress
+
+**Sub-Types:**
+- Major Shareholder Withdrawal
+- Debt Refinancing
+- Changes in Credit Rating
+
+**Reporting Guidelines:**
+We notify financial distress/ risks/hazards, when:
+- Major Shareholder Withdrawal: Notify when a major shareholder walks away from a plan to rescue the troubled company. This could significantly impact the company’s financial stability and restructuring efforts.
+- Cancelation of Rights Issue & Debt Refinancing: Notify when a company cancels a rights issue and seeks debt refinancing, as this indicates severe financial distress and potential restructuring needs.
+- Changes in Credit Rating: Downgrades by credit rating agencies that reflect deteriorating financial health and increased risk.
+
+**WarRoom Guidelines:**
+- We create a WarRoom when Partner(s) involved
+
+**Supplier Confirmation Email:**
+- NO
+
+
+## 21. Flood
+
+**Sub-Types:**
+- Site flooding
+- Region flooding
+- Flash flooding
+- Flash flood warning
+- Dam collapse risk
+- Flood Warning
+- Landslides
+- Major Road closures
+- Industrial park flooding
+- Major border crossing affected
+- Post-hurricane/storm flooding
+- Localized flooding
+- Widespread power outages
+- Evacuations
+- Airport/Port inundated
+
+**Reporting Guidelines:**
+- We notify our customers about flooding and flash flooding events because structural damages and transportation restrictions can cause supply chain disruptions.
+- Flooding events should be notified as soon as reported in public domain. We should be notifying flooding events pro-actively if there are warnings and evacuations in the region.
+- We notify flooding events if we have supplier sites(s) in the region of impact
+- Other than supplier sites, we also check if any services or any of the following operations are affected:
+  - Logistics providers, cargo shipping, utility provider, farming, ports, airports, postal services, train & freight, mining, data centers, power grids, nuclear power plants and more
+
+**NOTE:**
+- If a dam is expected to burst or a river is expected to break its banks, we should analyze which regions could get flooded due to the excessive water
+- We should geofence those regions proactively and create WarRooms
+- If disruptions and damages reported, send an update every 6 to 8 hours
+- We can report Flood Warning but DO NOT report Flood Watch or Flood Advisory
+
+**WarRoom Guidelines:**
+- Regions where supplier sites are present, create a WarRoom via geofencing the region. The size of the polygon depends on:
+
+**Radius:**
+- Check if we have reports of a predicted path of the flood
+- Check which regions are mentioned in the reports of disruptions
+- Flooding event polygon should cover the most affected regions (in major floods cover neighboring regions as well)
+
+**Note:** Update the impacted region if further damages are reported in the extended region, outside the initial polygon.
+
+**Supplier Confirmation Email:**
+- YES
+
+
+## 22. Force Majeure (FM)
+
+**Sub-Types:**
+- Force majeure on Commodities/ Minerals/chemicals
+- Force majeure on services/utilities
+- Subsequent Force majeure
+- Planned activity leading to Force majeure
+- Transportation force majeure
+- Force Majeure due to natural calamities, including floods, earthquakes, storms, droughts, tornadoes/hurricanes, volcanic eruptions, and more
+- Force Majeure due to human catastrophes, including facility fire, explosion, chemical spill, industrial accident, war, terrorism, etc.
+
+**Reporting Guidelines:**
+- We notify Force Majeure as soon as it is announced
+- FM is a clause that is included in legal contracts to remove liability for unforeseeable and unavoidable catastrophes that prevent suppliers/partners from fulfilling obligations.
+- These clauses generally cover both natural disasters and catastrophes created by humans.
+- We notify if the affected commodity has applications in our verticals, including petrochemicals, specialty chemicals, APIs, general manufacturing, plastics, glass, coatings, resins, adhesives, foam, packaging, metals, and more
+- An open-source public feed is available (login not required)
+- A paid source feed is available (login required), we can use the available information. If we know the material impacted, and the location of the facility, notify the event.
+- Send an update when the force majeure duration is extended
+- Notify FMs due to maintenance activities or preplanned activities
+
+**WarRoom Guidelines:**
+- Send impact if partner site(s) involved
+- Send impact to just the site which declared FM.
+- FM declared due to an accident at another company or site? Send impact to that company/site as well
+
+**Supplier Confirmation Email:**
+- YES
+
+
+## 23. Forest Fire
+
+**Reporting Guidelines:**
+- Notify only if partner site(s) in the region of impact
+- Is the fire still growing? Also, check expanded regions that are on fire watch or warnings (figure out which direction the fire is expanding)
+- Check if any industrial parks, mines, major roads, port(s) and airport(s), etc. are potentially affected and notify
+- Check if evacuations, power outages, road closures, or flight cancelations are announced because of the wildfire.
+- Check if a service or utility provider(s) potentially affected
+- Notify if potential freight/cargo disruptions expected
+- Send updates if the situation worsens
+
+**WarRoom Guidelines:**
+- Send impact when:
+  - Evacuations reported/ high alerts issued for the region
+  - Partner site(s) in the region of evacuations/warnings
+
+**Radius:**
+- Low = No impact needed
+- Medium = Affected region
+- High = Affected + 10 km
+- Severe = Affected + 30 km
+- Follow the radius given in the public domain
+
+**Supplier Confirmation Email:**
+- YES
+
+Sure! Here's the reformatted version of the **Geopolitical** guidelines based on your requested structure:
+
+---
+
+## 24. Geopolitical
+
+**Reporting Guidelines:**
+- Notify if sites are mapped in the country/city/state involved
+- Notify major trade deals and agreements
+- Notify unrest/protests/riots due to geopolitical events
+- Notify political unrest, economic crises, state of emergency, or military unrest (e.g., Brexit, coups)
+- Notify political changes, bribery/corruption cases, or if a leader passes away or is arrested (send impact if tensions escalate)
+- For terror attacks/shooting incidents:
+  - Check if Partner site(s) are in the region of impact
+  - Check for impact on major roads, ports, and airports
+  - Assess for potential transportation/freight disruptions
+  - Monitor for subsequent unrest, protests, or riots
+
+**WarRoom Guidelines:**
+- Send impact when:
+  - Partner site(s) are in the region of impact
+  - Unrest, protests, riots, manufacturing halt, major economic change, or conflict is reported/expected
+
+**Radius:**
+- Terror attack = Affected region + 2 km
+
+**Supplier Confirmation Email:**
+- YES  
+- *Do NOT send Supplier Impact for geopolitical issues arising due to new tariffs announced.*
+
+---
+
+Here’s the **Military Drills** information formatted in your preferred structure:
+
+---
+
+## 25. Military Drills
+
+**Reporting Guidelines:**
+- **DO NOT** report regular, anticipated exercises with standard maneuvers that occur periodically (e.g., quarterly or annually) and pose no immediate changes to security or supply routes.
+- **Report in case of:**
+  - **Escalating Military Presence or Border Presence:** Increased regional deployment or shift in military readiness by neighboring countries or allies, or border invasion during drills indicating heightened security concerns.
+  - **Political or Trade Policy Changes:** Statements from governments, trade sanctions, or policy shifts related to the region that could disrupt trade flows.
+- Report it under **“Geopolitical.”**
+
+**WarRoom Guidelines:**
+- Geofence the area where drills are directly conducted, plus a surrounding radius of 50 nautical miles (57.5 miles).
+
+**Supplier Confirmation Email:**
+- **Generally, NO**
+- Issue supplier impact confirmation only if:
+  - Drills already caused documented disruptions in logistics, such as restricted shipping lanes, increased customs checks, or delays in transport services.
+  - There’s an official statement or diplomatic action (e.g., sanctions or trade restrictions) that may directly impact the flow of goods in the area.
+
+**Sub-Types:**
+- Escalated Military Drills  
+- Live-Fire Exercises near international waters or sensitive areas  
+- Aerial Combat and Air Defense Drills near contested airspace or commercial air routes (e.g., air drills in the Baltic region amid NATO-Russian tensions)  
+- Naval Blockade Simulations – controlling maritime access in strategic locations  
+- Missile Deployment or Testing Drills near international borders  
+- Nuclear Preparedness Drills  
+- Rapid Mobilization Drills – fast deployment of military forces in response to aggressive movements by a neighboring country  
+- Special Forces Operations Training – simulations in conflict-prone areas  
+
+---
+
+## 26. Human Health
+
+**Reporting Guidelines:**
+- Notify in case of a major outbreak, pandemic, or epidemic declaration
+- Notify if partner site(s) are in the region of impact
+- Include if the affected region is important for manufacturing, labor, or transport and is facing travel restrictions, labor shortages, or lockdowns
+- Report on outbreaks such as bird flu, Ebola, MERS, Zika, dengue, cholera, SARS, plague, malaria, hepatitis B, etc.
+- Notify if a leader of a supplier company is severely ill
+- **COVID-19 Updates:** Once verified for supply chain disruptions, updates must be alerted within 6 hours
+- Notify verified restrictions, lockdowns, shutdowns, warnings, red zones, spikes, etc., within 6 hours from credible sources
+
+**WarRoom Guidelines:**
+Send impact when:
+- Partner site(s) are in the region of impact
+- A supplier company declares a spike in infections → Send impact to sites in the affected city/state/country only
+- A country, state, or city declares a spike in infections → Send impact to all sites involved in the regions
+
+**Supplier Confirmation Email:**
+- **YES**
+
+**Sub-Types:**
+- Outbreaks  
+- Pandemics / Epidemics  
+- Health emergencies/crisis  
+- Lockdowns/curfews  
+- Travel advisories/restrictions  
+- Leadership health issues  
+- Regional restrictions / no-entry zones
+
+---
+
+## 27. Hurricane/Typhoon (Pre-Landfall)
+
+**Reporting Guidelines:**
+- **1st Bulletin:**
+  - When the storm starts forming and landfall is confirmed
+  - Possibly a named major storm
+  - Threatening an important manufacturing region
+  - Sites/ports/airports in its projected path
+
+- **Update:**
+  - Forecasted path is now available on GDACS
+  - If sites are mapped in its path, send customer impact (Do **not** send supplier impact at this point)
+
+- **Next Update:**
+  - If/when the storm changes its category or path, send an update (Do **not** send supplier impact until landfall)
+
+**Additional Notes:**
+EventWatch sends updates when:
+- A hurricane changes its category/path
+- Emergency or evacuation warnings are issued
+- Businesses start shutting down
+- New damages and disruption reports emerge
+- Warnings are lifted
+- The storm starts degrading
+
+**WarRoom Guidelines:**
+
+**Category 1 or above:**
+- Send customer impact when the path becomes known
+- Send supplier impact when it makes landfall
+- Follow the forecast path from GDACS
+
+**Tropical Storm / No Name / No Category:**
+- Send impact on landfall
+- Send supplier impact
+
+**NOTE:**
+- If a storm changes its path before landfall, create a new polygon based on the updated path.
+- If the hurricane shifts into a new state within the same country, continue updating the same WarRoom.
+- If it moves into a new country or multiple countries, create separate WarRooms for each.
+- Country name should be included in the title.
+- If an already-affected region is likely to be hit again by a new storm, create a new WarRoom.
+
+**Supplier Confirmation Email:**
+- **NO**  
+- **YES** only if authorities begin shutting down businesses in preparation for landfall (storm is still days away)
+
+**Sub-Types:**
+- Named storms  
+- Category storms  
+- Unnamed major storms with high potential  
+- No category storms with high potential  
+- Developing storms  
+- Developed storms  
+- Hurricane / Typhoon / Cyclone  
+- Tropical storms with potential to grow
+
+---
+
+## 28. Hurricane/Typhoon (Post-Landfall)
+
+**Reporting Guidelines:**
+- **Update:** When the storm makes landfall (send supplier impact)
+- **Update:** Post-landfall destruction reported including:
+  - Evacuations
+  - Structural damages
+  - Transportation/Cargo disruptions
+  - Manufacturing disruptions
+  - Power outages
+  - Flight disruptions
+  - Port disruptions, and more
+
+**Further updates should be sent when:**
+- Escalated damages reported (e.g., structural damage, power outages, flight cancellations, flooded roads, port closures)
+- Industrial parks affected in the region
+- Nuclear plants impacted in the region
+
+**If the storm changes its path or category:**
+- Send update with impact to **extended (new)** regions only
+
+**WarRoom Guidelines:**
+- If the storm intensifies or changes path, send a new impact
+- After sending supplier impact, if a new polygon is needed, ensure regions already included in the initial polygon are not repeated
+- **Category 1:** Only issue WarRoom to **red and orange** regions as per GDACS
+- **Category 2 and above:** Issue WarRoom including the **green** region as per GDACS
+
+**Supplier Confirmation Email:**
+- **YES**  
+- Only send impact to the projected path as per GDACS
+
+**Sub-Types:**
+- Named storms  
+- Category storms  
+- Unnamed major storms with high potential  
+- No category storms with high potential  
+- Developing storms  
+- Developed storms  
+- Hurricane / Typhoon / Cyclone  
+- Tropical storms with potential to grow
+
+---
+
+## 29. Labor Disruptions
+
+**Reporting Guidelines:**
+- Send **Pre-Alert** as soon as a strike date is known or when union votes in favor of a strike
+- Notify if:
+  - A **supplier** is involved
+  - **Important utility services** are involved, including major ports and airports
+- Send an update a day before the strike begins (verify the strike is still ON)
+
+**Other Guidelines:**
+- Notify when product lines/applications match our verticals
+- For **services sector**, check if the company serves verticals like logistics, cargo shipping, port, airport, petrochemicals, chemicals, postal services, freight, rail, IT, utilities, mining, etc.
+- Track strike stages:
+  - Still going ahead and starting tomorrow? → Notify
+  - Strike already started? → Notify
+  - Strike in the future? → Monitor and set the date. Notify a day before
+  - Strike called off? → Move to Not Impactful
+  - Contract negotiations ON? → Strike is likely; notify customers ASAP and send an update a day before
+- Strike events that can lead to **port disruptions** should also be reported as **Port Disruption**
+- If the partner is involved but the impacted applications don’t match → Notify
+
+**WarRoom Guidelines:**
+- If partner site(s) are involved, send impact as soon as we hear about a potential strike (do not send supplier impact yet)
+- Send update a day before it happens (send supplier impact)
+- Partner site(s) in the region of impact  
+ **Polygon/Radius:** Affected region
+
+**Note:**
+- Do **not** send impact for **commuter disruptions**
+- Send **supplier impact with the 1st bulletin**
+
+**Supplier Confirmation Email:**
+- **YES**
+
+**Sub-Types:**
+- Company/site-level strike  
+- National strike  
+- Transportation strike  
+- Airport strikes  
+- Air controllers strike  
+- Union contracts and strike  
+- Utility services strike  
+- Cargo strike  
+- Border authorities strike  
+- Postal strike  
+- Layoffs  
+- Labor walkouts  
+- Labor protests
+
+---
+
+## 30. Labor Violation
+
+**Reporting Guidelines:**
+- Notify in cases of:
+  - Child labor, underage labor, slave labor, forced labor  
+  - Criminal violations, human trafficking  
+  - Poor labor conditions, illegal or undocumented workforce  
+  - Hyper overtime, health & safety violations
+- Notify if:
+  - A **partner** is involved or a **major company** from our verticals is affected  
+  - An **unmapped sub-tier or Tier-1** is involved (based on product line and applications)
+  - Involves **cargo/freight companies**, **utility providers**, **mining companies**, etc.
+  - A **state or country** is involved
+
+**WarRoom Guidelines:**
+- Send impact when a **partner** is involved
+- Send impact if **partner site(s)** are mapped in the region of impact
+- If child labor, illegal labor, or trafficked labor is reported at one site, apply impact to **all sites in that country**
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Child labor  
+- Underage labor  
+- Trafficked labor  
+- Slave labor  
+- Forced labor  
+- Illegal workforce  
+- Undocumented workforce  
+- Discrimination (racial, gender, ethnic, etc.)  
+- Poor working conditions  
+- Illegal overtime  
+- Health and safety violations  
+- Criminal violations  
+- Rights abuses/concerns  
+- Unpaid wages  
+- Contract disputes  
+- Speech restriction  
+- Wrongful termination  
+- Businesses in conflict zones
+
+---
+## 31. Leadership Transition
+
+**Reporting Guidelines:**
+- Notify **only** when a **partner** is involved, and sites are mapped
+- Notify only when **officially announced**
+- Report only **CEO/CFO/COO** changes
+- Include **executive-level changes** only if they could impact the **supply chain department**
+- Include transitions such as:
+  - Leader resigns  
+  - Leader joins  
+  - Leader retires  
+  - Leader is sacked  
+  - Leader is arrested
+
+**NOTE:**
+- FYI event — always gauged **Low**
+- Notify **only for mapped companies**
+- Send an update when a **new leader is found**
+
+**WarRoom Guidelines:**
+- Send **customer impact** only
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- CEO / CFO / COO  
+- Retires  
+- Resigns  
+- Joins  
+- Removed / Let go  
+- Investigated / Arrested  
+- Fraudulent  
+- Health issues
+
+---
+
+## 32. Legal Action
+
+**Reporting Guidelines:**
+- Notify when a **lawsuit, legal proceeding, litigation, court case**, or **trial** is initiated
+- Notify if a **mapped company (supplier)** is:
+  - Involved in a lawsuit  
+  - Getting sued  
+  - Settling a claim or lawsuit  
+  - Paying a fine due to legal action
+- **Do not wait for the outcome** — notify as soon as the trial becomes public
+- Notify even if it’s a **potential legal action**
+- Notify if a **large unmapped supplier** (potential Tier-1) is involved
+- Send updates when the **result of the lawsuit** is declared
+- Send impact **if a supplier is getting a lawsuit against them**
+- Send impact to the **specific site** involved in legal proceedings
+
+**WarRoom Guidelines:**
+- Send impact if:
+  - A **company** is mapped  
+  - A **specific site** is involved → impact that site only
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Lawsuits involving site and/or company  
+- Intellectual property disputes involving trade secrets  
+- Patent infringement  
+- Breach of contract cases  
+- Breach of fiduciary duty  
+- Environmental lawsuits  
+- Lawsuits involving tax or loans  
+- Lawsuits involving products, marketing, labeling, etc.  
+- Lawsuits involving leadership, strategies, etc.  
+- Regional lawsuits by city, state, country  
+- Agreed or potential fines, payments, settlements  
+- Corruption lawsuits  
+- Anti-corruption / bribery lawsuits  
+- Employment disputes – wrongful termination, workplace harassment, discrimination, hostile work environment  
+- Personal injury lawsuits (e.g., premises liability, product liability)
+
+---
+## 33. Merger and Acquisition
+
+**Reporting Guidelines:**
+- Notify when the **initial deal is announced** (pre-regulatory approvals)
+- Ensure product line and applications are relevant to our verticals  
+  → Decide if it’s a potential sub-tier or Tier-1 supplier based on product connection
+- If a **service sector** is involved, verify their services apply to verticals such as:
+  - Logistics  
+  - Cargo shipping  
+  - Travel  
+  - IT/Software  
+  - Petrochemicals, specialty chemicals  
+  - Construction  
+  - Manufacturing  
+  - Recycling  
+  - Communications  
+  - Utility suppliers (Electricity, Water, Gas)
+- For **steel companies**, notify only if a partner is involved or if applications match
+- For **retail, consulting, staffing, hospitality, finance, crude oil, insurance, or mining**, notify only if a mapped company/partner is involved
+
+**Completion:**
+- Do **not** send completion alert if the initial announcement has already been shared with customers
+- If a **mapped partner sells** the business, notify it as a **business sale**
+
+**WarRoom Guidelines:**
+- Send impact when the **transaction is announced**
+- Send impact to **all involved mapped companies** (do not send supplier impact)
+- Supplier impact **not needed** if the company is **acquiring**
+- If **both companies are mapped**, focus on the one **being sold** (treat it as a business sale event)
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Acquisition  
+- Merger  
+- Partial acquisition  
+- Partial merger  
+- Asset swap  
+- Joint venture  
+- Controlling stakes  
+- Announcement and Completion
+
+---
+
+## 34. Mine Shutdown
+
+**Reporting Guidelines:**
+- Notify only if the **applications of the affected commodity** match our verticals
+- Check if the **mine is mapped**
+- If not a mapped site → decide based on applications
+- For **coal mines**:  
+  - Notify only if there are **disruptions to the power industry**  
+  - Or **expected disruptions for our verticals**
+- If the exact mine is mapped, send the impact with the **initial bulletin**
+- **Pre-announced shutdown?**  
+  - Notify today and send an update once it actually shuts down
+
+**WarRoom Guidelines:**
+- If **partner site(s)** are involved → send impact
+- If **shutdown is expected in the future** → send impact **today**
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Mining Strikes  
+- Mine Shutdowns  
+- Mine Fire/Explosion  
+- Mine M&A  
+- Mining Accidents  
+- Mining force majeure  
+- Fine / Legal Action  
+- Licensing / Revokes
+
+---
+## 35. Power Outage
+
+**Reporting Guidelines:**
+- Notify power outages **only** if the region has **mapped sites**
+- Notify if **Expected Recovery Time** is not provided
+- For regions with **semiconductor fabs** (e.g., Taiwan, South Korea, China, Japan, USA, Singapore, Germany, Israel, Netherlands, Malaysia):  
+  → Report all outages even if recovery is expected in less than 6 hours
+- For **rest of the world**:  
+  → Report only if outage lasts or is expected to last more than 6 hours
+- Notify if power is out at:
+  - Site, warehouse, port, airport, mine, industrial park, etc.
+- Report if **important manufacturing regions** are affected
+
+**NOTE:**  
+Check power service provider's **Twitter** and **official website** for live updates and outage maps
+
+**WarRoom Guidelines:**
+- Send impact if **partner site(s)** in the region are affected
+
+**Polygon Radius:**
+- Use **affected region** based on provider’s outage map
+- If there’s an **explosion/fire at a power grid**, send impact to the **region served** by that grid
+
+**Supplier Confirmation Email:**
+- **YES**
+- Issue Supplier Impact ASAP for:
+  - **Semiconductor fabs**
+  - **Man-made power outages** (due to glitch) at supplier location
+- For **planned outages**: Send supplier confirmation **only** if outage lasts/expected to last **>24 hours**
+- For **extreme weather/storms**: Send supplier impact if outage lasts/expected to last **>6 hours**
+
+**Sub-Types:**
+- Power outages due to extreme weather  
+- Blackout at manufacturing facility / industrial park / transport hub  
+- Internet outages  
+- Planned outages  
+- Site-level outages  
+- Regional-level outages (≥6 hours for RoW)
+
+---
+
+## 36. Port Disruption
+
+**Reporting Guidelines:**
+- Notify disruptions at **ports with container activities**
+- Ports can face issues such as:
+  - Congestion  
+  - Labor strikes  
+  - Shutdowns  
+  - Terrorist attacks  
+  - Maintenance issues  
+  - Technical glitches  
+  - Protests  
+  - Spills  
+  - Regulatory changes
+- **Expected disruptions in the future?**  
+  → Notify today and send an update later
+- If **cargo activity is disrupted**, notify immediately
+- Also report **container ship accidents** and **labor strikes** that threaten a port
+
+**WarRoom Guidelines:**
+- Create a **WarRoom** as soon as a strike is reported
+- Create a **100-KM radius** around the affected port
+- If a **partner confirms impact** in public domain, send impact
+- If **sites are mapped** in the vicinity of the port, send impact
+
+**Supplier Confirmation Email:**
+- **YES**
+
+**Sub-Types:**
+- Ports / Dry ports  
+- Border crossings  
+- World trade bridges  
+- Port fire/explosion  
+- Labor union strikes and protests  
+- Train derailments  
+- Congestions  
+- Regulations  
+- Customs  
+- Traffic jams  
+- Container ship accidents / cargo disruptions  
+- Highjacking  
+- Ports M&A  
+- Labor accidents / practices  
+- Damages / maintenance
+
+---
+## 37. Price Fluctuation
+
+**Reporting Guidelines:**
+- Notify only if the **affected product/commodity/mineral** has applications in our verticals
+- If **companies report product price hikes**, create a WarRoom if a **partner** is involved
+- Report only **significant price changes** (sharp increase, price hike, or price fall), whether occurring or expected
+- Try to identify the **source and cause** of the price change
+- Research and note **effects on connected commodities, building blocks, and markets**
+
+**WarRoom Guidelines:**
+- Send impact **only when a partner** is directly involved
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Hyper increases  
+- Hyper decreases  
+- Prices of products and brands  
+- Suppliers increasing prices of their products and services  
+- Raw materials / Ingredients / Part / Sub-part
+
+---
+## 38. Protest/Riot
+
+**Reporting Guidelines:**
+
+**Regional Level Event:**
+- Notify if **sites are mapped** in the region
+- Report updates involving:
+  - Unrest, looting, road blockages, business/school closures
+- Check if **important manufacturing regions**, **major roads/ports/airports/business parks**, or **utility providers** are potentially impacted
+
+**Site Level Event:**
+- Notify if the **partner site is involved**
+- If the affected site is not mapped:
+  - Check product line; it could be a **Tier-1/Tier-2** site yet to be mapped
+  - For **service providers**, check applications and the **industries** they serve
+
+**Additional Note:**
+- If **Martial Law** is introduced, a new series should be created under **Geopolitical**
+
+**WarRoom Guidelines:**
+- Send impact if **partner site(s)** are in the affected region or **mapped site** is directly involved
+
+**Regional Event Radius:**
+- **Low** = Impact not needed  
+- **Medium** = Affected region + 5 km  
+- **High** = Affected region + 40 km  
+- **Severe** = Affected region + 50 km  
+
+**Site Level:**
+- Send impact to the **exact site** or draw a **radius** on the affected neighborhood  
+- Move to **HIGH** when disruptions are confirmed  
+- Send **supplier impact only when HIGH/SEVERE**
+
+**Supplier Confirmation Email:**
+- **YES**
+
+**Sub-Types:**
+- Localized site-level protest  
+- Labor protest  
+- Villagers protest  
+- Large area protests  
+- Anti-emissions protests  
+- Regional-level riots  
+- Looting / Blockades  
+- Protests affecting transportation and services  
+- Stampede  
+- Police activity
+
+---
+## 39. Recall
+
+**Reporting Guidelines:**
+- Notify recalls based on **applications** and **industrial connections** (e.g., a supplier recalling a faulty part or a company recalling a product with applications in our verticals)
+- If a product is recalled due to a **faulty part/component**, identify the **supplier** of that part and send impact if it’s a **mapped supplier**
+- Notify if a **major recall** is issued by a company that operates in our verticals
+
+**WarRoom Guidelines:**
+- Send impact if a **partner** is recalling a faulty part
+- Send impact if **parts supplied by a supplier** triggered the recall
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Recall of product / ingredient / part / sub-part  
+- Recall of faulty components  
+- Faulty devices / software / ingredients  
+- Recalls due to malfunctioning / poor quality  
+- Recalls due to labeling / packaging issues  
+- Contaminated products  
+- GMP issues / security concerns
+
+---
+## 40. Regulatory Change
+
+**Reporting Guidelines:**
+- Notify when there are reports of:
+  - New laws, rules, or regulations  
+  - Changes in existing rules or regulations  
+  - Changes in product compliance  
+  - New guidelines for product compliance  
+  - New controls & certifications on commodities and ingredients  
+  - Changes in tax laws/labor laws/trade laws  
+  - Changes in customs duty  
+  - Changes in import-export regulations  
+  - Changes in tariffs, duties, and levies  
+  - Bans on commodities, companies, and regions
+
+- **Initial bulletin** should be shared when the bill passes by simple majority and moves to the Senate (or equivalent)
+- **Send update** when a proposal gets signed into law
+
+**Bills During Proposal Stage:**
+- Report during this stage only if **reputable sources** indicate **significant supply chain impact**
+- Create a **customer WarRoom**; **do not send supplier impact**
+
+**NOTE:**  
+Always check **products and applications** impacted. Notify only if they match our **verticals**.
+
+**WarRoom Guidelines:**
+- If **partner** is involved → send impact
+- If **partner site(s)** are in the region of impact → send impact to **all**
+
+**Supplier Confirmation Email:**
+- **NO**  
+- Only send supplier impact when the impact is **certain**, not just a **possibility**
+
+**Examples:**
+- Brexit: Sent customer impact to UK, supplier impact not sent  
+- US-Mexico border closure: Sent customer impact to entire Mexico and USA, supplier impact not issued
+
+**Sub-Types:**
+- Changes in Laws / Treaties / Regulations  
+- Regulation Revisions / Updates  
+- Trade / Duties / Tariffs / Levies  
+- Commodity / Materials / Regional / Site-level regulations  
+- Commodity Compliance / Quality / Emissions / Pollution / Environmental / Import / Export regulations / Bans / Waste management  
+- Supply Chain Transparency Laws (e.g., UK Modern Slavery Act, California Transparency in Supply Chains Act)  
+- Data Protection Laws (e.g., GDPR)  
+- Environmental Regulations  
+- Labor Laws, Customs and Trade Laws  
+- Product Safety and Standards  
+- Contractual Obligations  
+- Anti-Corruption Laws  
+- Consumer Protection Laws
+
+---
+## 41. Supply Shortage
+
+**Reporting Guidelines:**
+- Notify if the **commodity’s application** matches our verticals
+- Notify if a **company reports product shortages**
+- Connect the shortage to **multi-tier verticals**
+- Note: Several **semiconductor process materials** in the petroleum supply chain (e.g., acetone, NMP, IPA, solvents) can cause ripple effects in our verticals
+- Identify the **source** of the shortage
+- Check if a **supplier or mapped site** is involved
+- Check if **companies have confirmed impact** in the public domain
+
+**NOTE:**
+- Understand **which customer** and **which industry** is affected
+- Keep checking for **public confirmation** of impact
+- If companies declare **Force Majeure** due to shortages, try to trace the **root cause**
+
+**WarRoom Guidelines:**
+- Send impact if a **partner** or **partner site(s)** is involved
+
+**Supplier Confirmation Email:**
+- **NO**, except:
+  - **YES** if the shortage involves **utility services** like water, electricity, gas, or chemicals
+
+**Sub-Types:**
+- Component / Material / Chemicals shortage  
+- Utility shortage  
+- Mining and minerals  
+- Expected shortages  
+- Planned shortages  
+- Shortage speculations  
+- Subsequent shortages
+
+---
+
+
+## 42. Tornado
+
+**Reporting Guidelines:**
+- If **warnings** are issued, check if **site(s) are mapped** in the region and **monitor** the situation
+- If a **tornado hits** and causes **structural damage**, notify if the **site(s) are mapped in the exact vicinity/village/community**
+- Notify if there are:
+  - Road closures  
+  - Business closures  
+  - Power outages  
+  - Airport/port disruptions  
+  - Utility disruptions
+
+**Note:**  
+Tornadoes affect **smaller vicinities** compared to major storms.  
+Do **not flag** an entire state or city. Instead, identify the **exact impacted region** (e.g., if a tornado hits Milpitas, CA, report based on the exact affected part of Milpitas).
+
+**WarRoom Guidelines:**
+- Send impact if **partner site(s)** are in the region of impact
+
+**Supplier Confirmation Email:**
+- **YES**
+
+**Sub-Types:**
+- Tornadoes touchdown  
+- Power outages  
+- Site-level impacts  
+- Vicinity-level impacts  
+- Cargo/Utility impacts  
+- Major roads in the region  
+- Infrastructure impact
+
+---
+## 43. Volcano
+
+**Reporting Guidelines:**
+- Notify **even if no sites** are in the region
+- Monitor and report **possible aviation disruptions**
+- Notify as soon as **signs of eruptions** or **high-alert warnings** are reported
+- Check if **partner site(s)** are mapped in the region
+- Check if **important manufacturing hubs, mining zones, ports, or airports** are present
+- Notify if **transportation or power disruptions** are expected
+
+**NOTE:**  
+Send **frequent updates** when additional details emerge.
+
+**WarRoom Guidelines:**
+- Send impact when **warnings are issued** or **evacuations are ordered**
+- Send impact if **partner site(s)** are in the region of impact
+
+**Radius:**
+- **Low** = No impact needed  
+- **Medium** = Affected region  
+- **High** = Affected region + 50 km  
+- **Severe** = Affected region + 200 km  
+
+**Supplier Confirmation Email:**
+- **YES**
+
+**Sub-Types:**
+- All eruptions  
+- Air disruptions / Port disruptions  
+- Earthquakes / Seismic activities  
+- Evacuations / Alerts / Advisories  
+- Poor visibility  
+- Tsunami due to volcano  
+- Wildfires due to volcano  
+- Power outages amid eruption  
+- Mudslides due to eruption  
+- Water contamination / shortages
+
+---
+Here’s the **Profit Warning** section formatted in your requested structure:
+
+---
+
+## 44. Profit Warning
+
+**Reporting Guidelines:**
+- Profit warnings are issued when a **listed company adjusts** its publicly available **expected results**
+- During a profit warning, the company may mention issues tied to:
+  - Sales and margins  
+  - Supply chain performance  
+  - New customer growth, and other business drivers
+- Notify when a **supplier is re-evaluating** or **reducing** its profit forecast for the year
+- Notify if a **supplier withdraws its profit report**
+
+**WarRoom Guidelines:**
+- Send impact if **partner(s)** are involved
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Revised profit forecast  
+- Profit warning issued or expected  
+- Profit report withdrawal
+
+---
+## 45. Mail/Postal/Package Delivery Services Disruptions
+
+**Reporting Guidelines:**
+- Notify if we have **mapped sites in the affected country**
+- Notify in case of:
+  - Service **disruptions or delays**
+  - **Expected delays** in deliveries
+  - **Service shutdowns** due to any reason
+  - **Fires, explosions, spills**, or other incidents that may shut down cargo/postal hubs
+  - **National strikes** impacting postal services
+  - If a **major postal service** is going bankrupt or being sold
+
+**WarRoom Guidelines:**
+- Send impact if the **affected site is mapped**
+- Send impact to **all mapped sites** if the **entire postal company** is affected
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Service disruptions at major hubs  
+- Service / delivery alerts  
+- Postal strikes / disruptions  
+- National strikes  
+(*Note: Also reported under Labor Disruptions, Port Disruptions, or Factory Disruptions if applicable*)
+
+---
+## 46. Layoffs
+
+**Reporting Guidelines:**
+- Notify **only** if a **supplier** is making layoffs
+- Send impact if the **exact site** is mapped
+- If layoffs are happening **globally**, send impact to **all sites**
+- Notify even if **future layoffs** are scheduled
+- Do **not** send supplier impact confirmation emails
+
+**WarRoom Guidelines:**
+- Send impact if **exact site** is mapped
+- If **global layoffs**, send impact to **all sites**
+- If job cuts are announced in a **specific division or subsidiary**:
+  - Research to identify **affected sites**
+  - Send impact **only** to those sites
+- If **business divisions can't be identified**, send impact to **all sites**
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Temporary and permanent layoffs  
+- Future layoffs  
+- Furlough  
+- Notify under labor disruptions
+
+---
+## 47. Container Ship Accidents
+
+**Reporting Guidelines:**
+- Notify if a **container ship is involved in an accident**
+- Include cases where the ship:
+  - **Capsized** or **drowned**
+  - Was **damaged** along with its cargo
+  - Faced **major delays, cancellations, or congestion**
+  - Was **hijacked** or **cargo was lost**
+- Check if the **cargo onboard is relevant to our verticals** — if yes, notify
+- If **cargo is unknown**, still notify and state that the information is **under investigation**
+- **Also report under Port Disruption** when applicable
+
+**WarRoom Guidelines:**
+- Send impact if:
+  - A **partner** is involved  
+  - A **partner confirms impact** in the public domain  
+  - The **ship company website** suggests a partner is affected
+
+**Supplier Confirmation Email:**
+- **YES**
+
+**Sub-Types:**
+- Possible shortage
+
+---
+## 48. Mad Cow Disease
+
+**Reporting Guidelines:**
+- Report when there is **panic or emergency** due to Mad Cow Disease at the **city/state/country level**
+- Notify in case of:
+  - **Beef export bans** or **import restrictions** due to Mad Cow Disease concerns  
+  - **Beef recalls** specifically linked to Mad Cow Disease  
+  - **Significant price fluctuations** in the beef market due to Mad Cow Disease-related news
+
+**Important Note:**  
+Choose the **appropriate event type** based on the **subject of the news**:
+- If it’s about **export bans**, categorize under **Regulatory Change**
+- If it’s about recurring **disease outbreaks** in cows or humans, categorize under **Human Health**
+
+**WarRoom Guidelines:**
+- Send impact if a **partner** is directly involved
+
+**Supplier Confirmation Email:**
+- **NO**
+
+**Sub-Types:**
+- Beef export ban  
+- Beef import restriction  
+- Inter-country trade implications  
+- Beef recall due to Mad Cow Disease  
+- Beef price hyper-increase / hyper-decrease  
+- Meat processors/companies increasing or decreasing beef prices
+
+---
+## 49. Generic Guidelines
+
+### **Quoting Foreign-Language Articles:**
+- Use **local media sources** for faster, more accurate reporting.
+- Prioritize **verified, reputable, and independently confirmed** local sources.
+- Use **key excerpts** only when necessary for **clarity and context**.
+- Include **both English and local media sources** in the bulletin for reference.
+
+---
+
+### **Using Non-Secure Source Links:**
+- **Do not use** links from **non-secure or unverified** sources.
+- Use only sources from **reputable and authenticated sites**.
+- **Avoid user-generated content** unless supported by reliable sources.
+- **Non-secure links** may be used **only if**:
+  - No secure source is available in the public domain, **and**
+  - They are the **only** sources confirming the event.
+
+---
+
+### **Sending an Update:**
+Only send updates when:
+- New developments, disruptions, or risk mitigation insights arise.
+- Updates **improve awareness and decision-making**.
+
+Send an update if:
+- The event’s **status or impact changes significantly**.
+- **Verified updates** suggest **supply chain disruptions**.
+- **News sources** offer additional or confirmed insights.
+- **Companies** publicly announce disruptions.
+
+---
+
+Here’s the **EventWatch Industries** list from the image, formatted for easy reference:
+
+---
+
+## 50. EventWatch Industries  
+*Industry-Specific Verticals* (Only relevant customers are alerted when these verticals are affected):
+
+- Aerospace  
+- Automotive  
+- Biotechnology  
+- Construction  
+- Consumer Electronics  
+- Defense  
+- Food & Beverage  
+- Freight  
+- Furnishing Goods  
+- General Manufacturing  
+- Healthcare  
+- High Tech  
+- Industrial Chemicals  
+- Insurance & Finance  
+- Life Sciences  
+- Natural Resources & Mining  
+- Oil & Gas  
+- Packaging  
+- Power & Energy  
+- Public Transportation  
+- Telecommunications  
+- Textile  
+- Tobacco and E-cigarettes  
+- Cosmetics & Skincare  
+- SaaS  
+- Research & Development
+
+---
