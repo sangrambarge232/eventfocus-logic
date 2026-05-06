@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "task": "zero-shot-classification",
+      "model_id": "facebook/bart-large-mnli",
+      "revision": "main",
+      "description": "Starter Hugging Face classifier candidate; validate licensing and performance before production use."
+    },
+    {
+      "task": "translation",
+      "model_id": "facebook/nllb-200-distilled-600M",
+      "revision": "main",
+      "description": "Starter multilingual translation candidate; configure hardware and language pairs before enabling."
+    }
+  ]
+}
