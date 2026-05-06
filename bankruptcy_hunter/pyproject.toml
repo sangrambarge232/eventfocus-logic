@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bankruptcy-hunter"
+version = "0.1.0"
+description = "Multilingual bankruptcy and financial distress web searching tool."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "BankruptcyHunter Team" }]
+dependencies = [
+  "fastapi>=0.110,<1.0",
+  "uvicorn[standard]>=0.27,<1.0",
+  "streamlit>=1.32,<2.0",
+  "pydantic>=2.6,<3.0",
+  "openpyxl>=3.1,<4.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0,<9.0", "httpx>=0.27,<1.0"]
+production = ["psycopg[binary]>=3.1,<4.0", "SQLAlchemy>=2.0,<3.0"]
+ml = ["transformers>=4.40,<5.0", "huggingface-hub>=0.22,<1.0"]
+
+[tool.pytest.ini_options]
+pythonpath = [".", "bankruptcy_hunter"]
+testpaths = ["bankruptcy_hunter/tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
